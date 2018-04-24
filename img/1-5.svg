@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="904" height="560" viewBox="0 0 904 560">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#F8F8F8" d="M0 0h905v560H0z"/>
+        <g fill="#000" fill-opacity=".86">
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257" transform="translate(20 405)">
+                <tspan x="0" y="28">Emotion: </tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="159" y="40">🙂</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="345" y="40">🙂</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="531" y="40">🙂</tspan>
+            </text>
+        </g>
+        <path stroke="#2D4088" stroke-width="2" d="M491 180h160v188H491z"/>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(490 179)">
+            <tspan x="16" y="30">Report to the </tspan> <tspan x="16" y="54">management </tspan> <tspan x="16" y="78">office</tspan>
+        </text>
+        <path stroke="#2D4088" stroke-width="2" d="M305 180h160v188H305z"/>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(304 179)">
+            <tspan x="16" y="30">Cash out </tspan> <tspan x="16" y="54">MintChip balance </tspan> <tspan x="16" y="78">from all the </tspan> <tspan x="16" y="102">devices at one </tspan> <tspan x="16" y="126">click</tspan>
+        </text>
+        <g>
+            <path stroke="#2D4088" stroke-width="2" d="M119 180h160v188H119z"/>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(118 179)">
+                <tspan x="16" y="30">Log into MintChip </tspan> <tspan x="16" y="54">Retail Portal, the </tspan> <tspan x="16" y="78">transaction tab is </tspan> <tspan x="16" y="102">the default tab</tspan>
+            </text>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257" transform="translate(20 179)">
+            <tspan x="0" y="16">Task</tspan> <tspan x="0" y="35">Flow: </tspan>
+        </text>
+        <g fill="#000" fill-opacity=".86" font-size="16" letter-spacing=".257">
+            <text font-family="Lato-Bold, Lato" font-weight="bold" transform="translate(20 120)">
+                <tspan x="0" y="16">Goal: </tspan>
+            </text>
+            <text font-family="Lato-Regular, Lato" transform="translate(20 120)">
+                <tspan x="98" y="16">Cash out MintChip balance weekly to the restaurant’s bank account</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#2D4088" d="M0 0h734v96H0z"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="24" font-weight="bold" letter-spacing=".386">
+                <tspan x="18.35" y="40">Cash Out Flow - Keiko</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Regular, Lato" font-size="20" letter-spacing=".321">
+                <tspan x="18.35" y="76">User Journey Map</tspan>
+            </text>
+            <g>
+                <path fill="#2CAB70" d="M734 0h171v96H734z"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" letter-spacing=".321" transform="translate(734)">
+                    <tspan x="54.326" y="56">AFTER</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>  
+  <head>
+    <title>Work - Retail Portal</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Jingyi,design,product,ux,designer">
+    <meta name="author" content="Jingyi Lai">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--favi-->
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+    <link rel="manifest" href="../favicon/site.webmanifest">
+    <link rel="mask-icon" href="../favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+    
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--my CSS-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400i" rel="stylesheet">
+    <link rel="stylesheet" href="../css/main.css" type="text/css">
+    <link rel="stylesheet" href="work.css" type="text/css">
+    <link rel="stylesheet" href="../cs/debug.css" type="text/css">
+  </head>
+
+  <body>
+   <div class="container">
+    <nav>
+      <a href="../index.html" id="branding">Jingyi Lai</a>
+      <a href="../index.html">Work</a>
+      <a href="../about.html">About</a> 
+    </nav>
+    
+    <!--The start of the article-->
+      <h1 class="header">MintChip Retail Portal: A Management System for Merchants</h1>
+      <p class="label">Product Design</p>
+      <figure class="big">
+        <img  src="../img/1-1.jpg" srcset="../img/1-1@2x.jpg 2x,../img/1-1@3x.jpg 3x" alt="MintChip Retail Portal">
+        <figcaption>1-1</figcaption>
+      </figure>
+      <p>The  MintChip Retail Portal is an online application for merchants accepting MintChip payments to better manage transactions, provision multiple devices and easily cash out.</p>
+      <div class="cta"><a class="btn" href="https://merchant.mintchip.io/" target="_blank">See the Live Landing Page</a></div>
+      
+      <h2>Background</h2>
+      <p>MintChip is a digital currency that provides the underlying system to facilitate the exchange of value between two parties in real-time without intermediaries. <span><a href="https://www.youtube.com/watch?time_continue=5&v=RFYkREL6acU" target="_blank">Forbe has a video explainning how MintChip works.</a></span><br> 
+      Originally created by the Royal Canadian Mint, MintChip was acquired by nanopay in Jan 2016. Later the same year, nanopay advanced the technology by making <span><a href="https://www.ingenico.com/press-and-publications/press-releases/all/2016/06/ingenico-group-and-nanopay-corporation-partner-to-enable-canadian-retailers-to-accept-mintchip-digital-cash.html" target="_blank">MintChip payments available on Ingenico terminals</a></span>. nanopay launched the P2P and retail payment solution - <span><a href="https://mintchip.ca/" target="_blank" >the MintChip app for consumers</a></span> and <span><a href="https://mintchip.ca/merchant-info/" target="_blank">merchants</a></span> in June 2016, allowing people to process payments and transfer money instantly.<br><br>
+      January 2017, I joined nanopay as a product designer. My first challenge was to design a management system for merchants who are accepting payments in MintChip.
+      </p>
+      
+      <h2>A Deep Dive into the Problem Space</h2>
+      <p>To better understand the problem, I worked closely with the customer success representative to find out what the merchants really need. The first step was simply going for a visit and opening up the topic with some small talks. We talked with 8 merchants with 14 merchants onboard in Liberty Village and got some great insights. The following is some highlight words from our note:</p>
+      <blockquote>
+      "We have two iPads, that means <span>need to connect bank account twice, and cash out twice to get our money</span>"<br><br>
+      "I like the way MintChip works fast and easy, but there are <span>too much sensitive information</span> in the merchant app and it is dangerous just in the app itself"<br><br>
+      "I <span>don't want the server to touch the cash out setting</span> so basically I'm taking care of all the MintChip payments"<br><br>
+      "At one time a customer mistakenly tipped us 100 dollars and we  <span>had to give him cash back</span> because there is no refund option"<br><br>
+      "There are 3 devices in our place, two iPads, one terminal, and each time if there is something, we'll <span>need to look through all three of them</span>"
+      </blockquote>
+      <p>We noticed merchants were frustrated about the <b>repeated actions across multiple devices</b> and <b>the unrestricted access</b> to the sensitive information in the merchant app. </p>
+      <figure class="gap">
+        <img src="../img/1-2.png" srcset="../img/1-2@2x.png 2x, ../img/1-2@3x.png 3x" alt="Persona of Retail Portal">
+        <figcaption>1-2 / We created the persona after talking with merchants and organizing the notes.</figcaption>
+      </figure>
+      
+      <h2>Project Goals</h2>
+      <p>The design needs to reflect both user needs and the business goals.I also incorporated the requirements and the vision from the business side.</p>
+      <ul class="gap goal">
+        <li>Follow the MintChip branding to convey a consistent, friendly but impactful visual experience</li>
+        <li>Design a smooth and painless flow to manage transactions and cash out across multiple devices</li>
+        <li>Securely protect merchant's sensitive information</li>
+      </ul>
+      
+      <h2>Solution 1: All Transactions in ONE Place</h2>
+      <p>It used to be a pain for merchants to cash out because the MintChip balance is stored separately in different individual devices. In order to cash out, a merchant will need to cash out multiple times on multiple devices. Especially if the cashout frequency is daily, it can be a big pain.</p>
+      <figure>
+        <img src="../img/1-3.png" srcset="../img/1-3@2x.png 2x, ../img/1-3@3x.png 3x" alt="The old flow of cashing out on merchant app">
+        <figcaption>1-3 / The old flow only has two steps, but with multiple devices, it became a problem.</figcaption>
+      </figure>
+      <p>But with the merchant portal, they can easily cash out all the balance or balance from the individual device, at one click. Plus, with all transactions at one time, it becomes easier to monitor and manage the transactions.
+      The before and after user journey maps below shows how the retail portal can help merchant cash out and manage transactions <b>painlessly</b>.</p>
+      <figure>
+        <img src="../img/1-4.svg" alt="cash out -user journey map - before">
+        <img src="../img/1-5.svg" alt="cash out -user journey map - after">
+        <figcaption>1-4,1-5 / From the user journey map before and after, we can see the portal reduced the repeat actions the users do when cashing out with different devices.</figcaption>
+      </figure>
+      <p>Besides the benefit of easy cashout, the new cashout flow also allows merchants to manage all the bank accounts in one place, no more multiple verifications, easily disable and reconnect.</p>
+      <figure class="gap">
+        <img class="big" src="../img/1-6.gif" alt="the prototype of how a merchant cashes out">
+        <figcaption>1-6 / Prototype simulating how a merchant can cash out all the MintChip balance together: choose cashout option -change the bank account - modify cashout amount- confirmation </figcaption>
+      </figure>
+      
+      <h2>Solution 2: Dumb the Merchant App - Sensitive Info Exclusively in the Portal </h2>
+      <p>One of the biggest concern for the merchants is the security of sensitive information, which includes bank accounts, MintChip balance, etc. Most of the time, the owner only wants the server to have access to accept payments and view transactions, which results in that only either the owner or manager is the only one who uses the MintChip device.</p>
+      <figure>
+        <img src="../img/1-7.png" alt="screenshot of merchant app showing the access for the users">
+        <figcaption>1-7 / The old MintChip merchant app allows users to access sensitive information, like password and cashout settings</figcaption>
+      </figure>
+      <p>We tried using user access control based on user login information, but the result was disappointing. The device is shared by all the workers at the same workplace, and switching accounts during the busy hours is a huge pain.<br><br>
+      In the research, we noticed that sensitive actions like refunding, cashout don't happen frequently and should be securely managed by the managers.  So we made a decision on moving all the sensitive actions to the portal which only managers have access to, and made the merchant app only capable of accepting payments and view transactions.
+      </p>
+      <figure>
+        <img src="../img/1-8.png" srcset="../img/1-8@2x.png 2x, ../img/1-8@3x.png 3x" alt="The screenshots of the new merchant app">
+        <figcaption>1-8 / The new MintChip merchant app only allows users to accept payments, view transactions and turn on/off the tip toggle</figcaption>
+      </figure>
+      <p>All the other actions like the bank account, cash out, including refund, are exclusively moved to the portal, so only the person who has access to the portal can touch those settings, making the MintChip balance <b>securely</b> managed.</p>
+      <figure>
+        <img src="../img/1-9.svg" alt="refund -user journey map - before">
+        <img src="../img/1-10.svg" alt="refund -user journey map - after">
+        <figcaption>1-9,1-10 /The red part shows the repeat process Keiko has to do when looking for a specific transaction, which is greatly improved by the retail portal. Also, the refund is possible in the portal so no more cash refund and sensitive information are securely protected.</figcaption>
+      </figure>
+      <p>The refund option solved the problem of the mess with sales report when using a different method other than original format to refund.The two transactions with different sale and refund greatly help the accountant out of the confusion. </p>
+      <figure class="gap">
+        <img class="big" src="../img/1-11.gif" alt="the prototype of how a merchant refund">
+        <figcaption>1-11 / Prototype simulating how a merchant can refund within the MintChip ecosystem</figcaption>
+      </figure>
+      
+      <h2>Other Highlights </h2>
+      <p>The MintChip Retail Portal is a separated management system from the merchant app and consumer app, so we design a registration and onboarding flow to navigate the merchants finish everything they need before accepting payments. The bank account and device management also have a fresh look and feel based on the foundation of MintChip branding.</p>
+      <figure class="gap big">
+        <img src="../img/1-12.png" alt="user flow of retail portal">
+        <figcaption>1-12 / We created an overall user flow combining different flows like registration, forgot password, add a device, etc.</figcaption>
+      </figure> 
+      <figure class="gap">
+        <img src="../img/1-13.png" srcset="../img/1-13@2x.png 2x, ../img/1-13@3x.png 3x" alt="some screenshots of retail portal">
+        <figcaption>1-13 / Above shows the bank account, onboarding and device page.</figcaption>
+      </figure>
+      <figure class="gap">
+        <img class="big" src="../img/1-14.png" srcset="../img/1-14@2x.png 2x, ../img/1-14@3x.png 3x" alt="retail portal visual style guide">
+        <figcaption>1-14 / The style guide includes Colors, Actions, Lists, Forms and Icons.</figcaption>
+      </figure>
+      
+      <h2>User Testing</h2>
+      <p>During the design process, we've been constantly asking for feedback. I We did user testings on both the low-fi and high-fi mockups with invited merchants.</p>
+      <figure>
+        <img src="../img/1-15.png" srcset="../img/1-15@2x.png 2x, ../img/1-15@3x.png 3x" alt="screenshots of low-fi wireframes">
+        <figcaption>1-15 / The low-fi mockups I made with Balsamiq. I used it to test the major flows. </figcaption>
+      </figure>
+      <p>We interviewed 3 merchants and asked them to finish simple tasks like registration, cash out and refund. Based on observation and casual talks after the testing, we put what we need to iterate on together.</p>
+      <figure class="gap">
+        <img src="../img/1-16.png" srcset="../img/1-16@2x.png 2x, ../img/1-16@3x.png 3x" alt="Changes on UI after testing">
+        <figcaption>1-16 / I moved the sections for different devices from middle to top, with the big title indicating the current device. Also some changes on address setting and cash out settings.</figcaption>
+      </figure>
+      
+      <h2 id="landing">The Landing Page</h2>
+      <p>I was also responsible for designing the landing page for the retail portal.I worked closely with the customer success representative and the marketing team to finalize the content and structure of the site. We followed this 3-step-methodology: </p>
+      <ol class="gap goal">
+        <li><b>Define the user flow</b><br>
+          how users go to our website, how we want to guide them to reach to us<br>
+          They know us from the brochure - search online - go to the website - go through content - contact us - conversion</li>
+        <li><b>Information structure</b><br>
+          what do users want to see, what should be included<br>
+          Users want to know who we are, what are we doing, what problem is retail portal solving, what kind of benefits they can get - contact information</li>
+        <li><b>Design</b><br>
+          what the website will look like<br>
+          The visual design should follow the same brand guideline as MintChip</li>
+      </ol>
+      <figure class="gap">   
+        <img src="../img/1-17.png" alt="first version of landing page">
+        <figcaption>1-17 / The first version highly focus on the functionality of the retail portal, but didn't connect well the original merchant app, which makes the merchants confused. </figcaption>
+      </figure>
+      <figure class="gap">
+        <img src="../img/1-18.gif" alt="animation prototype">
+        <figcaption>1-18 / Animating prototyping with Principle on the landing page</figcaption>
+      </figure>
+      <figure class="gap">
+        <img src="../img/1-19.png" alt="revised version of landing page">
+        <figcaption>1-19 / The final version provides instruction on how to get started with the existing merchant app. The pricing is put at a much more prominent place.</figcaption>
+      </figure>
+      
+      <h2>Launch and Learn</h2>
+      <p><a href="http://www.marketwired.com/press-release/nanopay-introduces-self-service-mintchip-retail-payment-platform-canadian-merchants-2224156.htm" target="_blank">MintChip Retail Portal was launched</a> in June 2017.With lots of users onboarding and feedback, we continued work hard to iterate on the design. One really important lesson we learned is the <b>security and compliance</b> in the payment industry.<br><br>
+      As designers, we've always been taught to make the design as simple, easy to understand/start/use as possible. However, that is not always the case in the payment industry. I have wondered many times why we have to ask users to provide a bunch of "seems not necessary information" and asked to reduce the complicated compliance check, but in fact, that is to protect everyone's money and security from fraud.<br><br>
+      Payment is a serious thing. In our case, it might be just a few hundred dollars, but for business, it can be a multi-billion transaction. We should always really <b>put ourselves into the shoes of the user/industry</b>, instead of just thinking making the product "easy to use".</p>
+      
+      <hr/>
+      <h3 class="gap">Related Links</h3>
+      <ul class="gap">
+        <li><a href="https://merchant.mintchip.io/" target="_blank">Merchant Landing Page</a></li>
+        <li><a href="https://www.youtube.com/watch?time_continue=5&v=RFYkREL6acU" target="_blank">How MintChip Works from Forbe</a></li>
+        <li><a href="https://mintchip.ca/" target="_blank">MintChip Consumer App</a></li>
+        <li><a href="https://mintchip.ca/merchant-info/" target="_blank">MintChip Merchant App</a></li>
+        <li><a href="https://www.ingenico.com/press-and-publications/press-releases/all/2016/06/ingenico-group-and-nanopay-corporation-partner-to-enable-canadian-retailers-to-accept-mintchip-digital-cash.html" target="_blank">MintChip Available on Ingenico Terminals</a></li>
+        <li><a href="http://www.marketwired.com/press-release/nanopay-introduces-self-service-mintchip-retail-payment-platform-canadian-merchants-2224156.htm" target="_blank">nanopay Introduces Self-Service MintChip Retail Payment Platform for Canadian Merchants</a></li>
+      </ul>
+      <h3 class="gap">Related Writing(s)</h3>
+      <ul>
+        <li><a href="https://blog.prototypr.io/3-tips-to-get-started-with-responsive-design-beb747d254" target="_blank">3 Tips to Get Started with Responsive Design</a></li> 
+      </ul>
+     </div>
+     
+     <a class="bottom" href="lifegrow.html">
+       <div class="btn bottombar">
+        <p><strong>Next Project: </strong><br>
+        LifeGrow: Grow A Better life With Plants</p>
+      </div>
+     </a>
+   
+    <script src="script.js"></script>
+  </body>
+  
+</html>

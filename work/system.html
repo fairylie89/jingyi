@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Work - nanopay Design System</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Jingyi,design,product,ux,designer">
+    <meta name="author" content="Jingyi Lai">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--favi-->
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+    <link rel="manifest" href="../favicon/site.webmanifest">
+    <link rel="mask-icon" href="../favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+    
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--my CSS-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400i" rel="stylesheet">
+    <link rel="stylesheet" href="../css/main.css" type="text/css">
+    <link rel="stylesheet" href="work.css" type="text/css">
+    <link rel="stylesheet" href="../cs/debug.css" type="text/css">
+  </head>
+  
+  <body>
+   <div class="container">
+    <nav>
+      <a href="../index.html" id="branding">Jingyi Lai</a>
+      <a href="../index.html">Work</a>
+      <a href="../about.html">About</a> 
+    </nav>
+    
+    <!--The start of the article-->
+      <h1 class="header">nanopay Design System: Accelerating The Design &amp; Development</h1>
+      <p class="label">System Design, Front-end Development</p>
+      <figure class="big">
+        <img src="../img/3-1.jpg" srcset="../img/3-1@2x.jpg 2x, ../img/3-1@3x.jpg 3x" alt="MintChip Retail Portal">
+        <figcaption>3-1</figcaption>
+      </figure>
+      <p>nanopay Design System is a structural and visual guideline to standardize and accelerate the design &amp; development process.
+      It consists of a live style guide with reusable components, design guidelines, CSS snippets,  and a component library for designers. </p>
+      
+      <h2>Background &amp; Problem</h2>
+      <p>As the company grows, we've been adding more and more payment services. The scaling has caused some problems: customers have to switch between different accounts to access different services; developers have to manage different platforms with similar structures separately; the designer has more and more separated design files in the drive.<br><br>
+      We've made a crucial decision: <b>Unify all our services to the core nanopay platform while switching our technology framework to FOAM for higher perfromence.</b><br><br>
+      <span><a href="b2b.html">This is a critical challenge for me</a></span>, as this required an overall deep review of the existing products and a more visionary, compatible and mindful design.</p>
+      
+      <h2>Goals &amp; Limitation </h2>
+      <p>Design goals should always match with the business goals:</p>
+      <ul class="goal">
+        <li>Standardize and unify the visual style, components used for different services to deliver a smooth deliver a smooth, beautiful and consistent user experience.</li>
+        <li>Create a universal skeleton of the platform for scaling and future development </li>
+      </ul>
+      <p>Due to limited resources and tight deadlines to deliver products to our clients, we had to minimize the development cost, which means we could not afford a complete redesign. What I decided was to put the latest B2B portal as the main and revise based on it.</p>
+      
+      <h2>The Foundation: Seeking The Patterns</h2>
+      <p>Building up the design system is like building a house, you will need to build the foundation first, then gradually adding the bricks and concrete, and finally paint it in the beautiful colors you like. <br><br>
+      Therefore, the first step I took is to go through all of the existing products and look for commonalities. We have the <span><a href="retail.html">Retail Portal</a></span> , <span><a href="b2b.html">B2B Portal</a></span> , Support Portal and other web-based tools for our clients. . I categorized the UI design based on the different structures and created the general layout. </p>
+      <figure>
+        <img src="../img/3-2-1.png" srcset="../img/3-2-1@2x.png 2x,
+               ../img/3-2-1@3x.png 3x" alt="Screenshots of different UIs">
+        <figcaption>3-2-1 / Looking for patterns in the sea of UIs </figcaption>
+      </figure>
+      <p>As a result, I summarized 4 patterns for the platform: List View, Detail View, New Build View and Setting View.  They are the key skeletons for the whole platform, and almost all the screens can be categorized into the 4.</p>
+      <figure>
+        <img src="../img/3-2-2.png" srcset="../img/3-2-2@2x.png 2x,
+               ../img/3-2-2@3x.png 3x" alt="4 skeletons of the platform">
+        <figcaption>3-2-2 / As a payment services provider, the list is an extremely important element: Transactions, invoices, users...they are all living in the system in the form of a list. The detail view and new build view are originated from the list view.</figcaption>
+      </figure>
+      <p>The skeletons have set up the foundation of the platform, next step is to add the bricks. </p>
+      
+      <h2>Adding The Bricks &amp; Concrete: Reusable Components</h2>
+      <p>Remember the giant style guide we create after every project? There are buttons, checkboxes, lists, tables....almost every actionable element appeared in the product. I looked through the style guides and looked for the components playing the same role, then I unified them together based on the design of the B2B portal.</p>
+      <figure>
+        <img src="../img/3-2-3.png" srcset="../img/3-2-3@2x.png 2x,
+               ../img/3-2-3@3x.png 3x" alt="Screenshots of different style guides">
+        <figcaption>3-2-3 / I created many style guides when working on different projects, which have become a big hard-to-manage burden.</figcaption>
+      </figure>
+      <p>I also did some online research on design systems like <span><a href="https://material.io/" target="_blank">Material Design</a></span> , <span><a href="https://polaris.shopify.com/" target="_blank">Shopify's Polaris</a></span> , <span><a href="https://atlassian.design/" target="_blank">Atlassian Design</a></span>. They focus not only on components, but also animation, marketing, content, etc. As a starting point, I referenced their information architecture and combined the unique nanopay style, finally came up with the following list.</p>
+      <img src="../img/3-2-4.jpg" srcset="../img/3-2-4@2x.jpg 2x,
+             ../img/3-2-4@3x.jpg 3x" alt="the IA for components">
+      <figcaption>3-2-4 / Initial IA for components part </figcaption>
+      <p>For each actionable component, I showed how it should look under different statuses, like hover, focus and disabled. </p>
+      <figure>
+        <video width="100%" controls>
+          <source src="../img/video/3component.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+        <figcaption>Video/ Above shows the components of the Design System, how the layout of each part looks: a title, an actionable sample, and the explanation.</figcaption>
+      </figure>
+      <p>I also added the use cases for the components, like the main button should be used for primary actions only. Separated components are like separated bricks, only the proper concrete can put them together. Having a specific component dedicated to the specific use cases is the key to deliver a consistent user experience.</p>
+      
+      
+      <h2>Painting The Surface: Visual Style Guide</h2>
+      <p>The last step in building a house is to paint the wall and add the decorations, and for the system, is the visual style guide.</p>
+      <figure class="gap">
+         <video width="100%" controls>
+          <source src="../img/video/3visual.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+        <figcaption>Video/ Above shows the color scheme and text styles of the Design System</figcaption>
+      </figure>
+      
+      <h2>Bridging The Gaps</h2>
+      <p>Besides the efforts to standardize and unify the design, I also worked on optimizing the workflow when designers collaborating with the rest of the company.</p>
+      <h3>1. Between Designer &amp; Marketing Team</h3>
+      <p>Sometimes conversations between the marketing team and me are like this:</p>
+      <div class="bubble">
+        <p class="mate">Hey Jingyi, can you send me a picture of the logo?</p>
+        <p class="me">What format and size do you need?</p>
+        <p class="mate">Ah, jpg I guess?</p>
+        <p class="me">And size and resolution?</p>
+        <p class="mate">hmm...What is resolution?</p>
+        <p class="me">...er, it is like dpi, ppi.</p>
+        <p class="me">But wait, what do you need this for?</p>
+        <p class="mate">Oh I want to print out a copy to put on the event desk..</p>
+        <p class="me">I see! In that case, blu blu blu...</p>
+      </div>
+      <p>Or this:</p>
+      <div class="bubble">
+        <p class="mate">Hey, Jingyi, can I get a png of the logo?</p>
+        <p class="me">What is that for?</p>
+        <p class="mate">To replace the twitter profile pic, looks a bit odd now😥</p>
+        <p class="me">I shared a Google link with you last week</p>
+        <p class="mate">Well, I can't find it, can you just send me through Slack?</p>
+        <p class="me">sure👍</p>
+      </div>
+      <p>Marketing folks asked me for branding resources often, and it is hard to find them within massive links. To minimize the unnecessary back and forth, the constant file transfers, I moved the branding resources to the design system and they can have easy access to the files they need.</p>
+      <figure>
+        <img src="../img/3-2-5.png" srcset="../img/3-2-5@2x.png 2x,
+               ../img/3-2-5@3x.png 3x" alt="Screenshot of branding resource">
+        <figcaption>3-2-5 / I've prepared different formats of logos for prints, social media, design and development. </figcaption>
+      </figure>
+      <div class="gap"></div>
+      <h3>2. Between Designer &amp; Development Team</h3>
+      <p>We have conversations like this:</p>
+      <div class="bubble">
+        <p class="mate">Jingyi, what's the hex code for the submit btn in XX portal?</p>
+        <p class="me">I think it is #xxxxx, you can check on Zeplin</p>
+        <p class="mate">Yeah, but not sure which one to follow, there is a project XX for Client B. Is #xxxxx same for Client C?</p>
+        <p class="me">Yes, they should be the same</p>
+        <p class="mate">kk, thx</p>
+        <p class="mate">btw, do have an email design for when a user got an invoice?</p>
+        <p class="me">no...but as it is the same layout as when they received an invoice. </p>
+        <p class="me">actually, I will make the screen now</p>
+        <p class="mate">thx🙏</p>
+      </div>
+      <p>As we are managing multiple projects at the same time, when developers are not clear with something they will come to me. While I'm happy to help them, putting the shared style guide online with just one URL away, saved all our days.</p>
+      <figure>
+        <img src="../img/3-2-6.png" srcset="../img/3-2-6@2x.png 2x,
+               ../img/3-2-6@3x.png 3x" alt="Email skeleton">
+        <figcaption>3-2-6 / I've designed a general email skeleton with specs so developers can create the email with content only</figcaption> 
+      </figure>
+      <div class="gap"></div>
+      <h3>3. Inside The Design Team</h3>
+      <p>I also shared the design templates of the nanopay web platform, color scheme, universal text styles and email templates.</p>
+      <figure class="gap">
+        <img src="../img/3-2-7.png" srcset="../img/3-2-7@2x.png 2x,
+               ../img/3-2-7@3x.png 3x" alt="design resources">
+        <figcaption>3-2-7 / Design resources</figcaption> 
+      </figure>
+       
+      <h2>The Development</h2>
+      <p>I was responsible for designing and developing the design system website. I made a simple and responsive design with the existing color palette,  then developed it using plain HTML, CSS and JavaScript. It was launched for internal use at the beginning of 2018.</p>
+      <figure class="gap">
+        <img src="../img/3-2-8.gif" alt="responsive layout">
+        <figcaption>3-2-8 / To make the menu prominent enough on mobile devices, I chose to show the menu instead of hiding it in the hamburger menu.</figcaption>
+      </figure>
+        
+      <h2>Supercharging Designers Workflow</h2>
+      <p>Besides the live style guide, I created a component <span><a href="https://sketchapp.com/docs/libraries/" target="_blank">library in SketchApp</a></span> to speed up the visual design process. With a shared component library, creating a hi-fi mockup could never be easier, which also makes rapid-prototyping possible in high fidelity.</p>
+      <figure>
+        <img src="../img/3-3-1.gif" alt="demo of how to quickly create a mockup using components library">
+        <figcaption>3-3-1 / I made the general component library a shared library, so all the designers can easily access and use them to quickly make a screen.</figcaption> 
+      </figure>
+      <p>Thanks to the powerful features, I was able to do text overrides, color overrides, swapping symbols and finished the mockup in <b>less than 4mins!</b> The plugin <span><a href="http://sketchrunner.com/">Sketch Runner</a></span> is really a good helper.<br><br>
+      Thanks to <span><a href="https://medium.com/in-the-hudl/building-our-sketch-library-cd8c925e566" target="_blank">Michael Fouquet sharing how they build up the sketch library</a></span>,  I was able to quickly put the components together, launch, and start using them!</p>
+      
+      
+      <h2>Next Step</h2>
+      <p>As for now, I only identified the proper CSS for different text styles. In the future, we'd like to build our own CSS components library, to accelerate the development process, minimize design discrepancies and reduce the workload on universal changes.</p> 
+      
+      <hr/>
+      <h3 class="gap">Related Links</h3>
+      <ul class="gap">
+        <li><a href="https://sketchapp.com/docs/libraries/" target="_blank">Sketch Library</a></li>
+        <li><a href="https://sketchrunner.com/" target="_blank">Sketch Runner</a></li>
+        <li><a href="https://medium.com/in-the-hudl/building-our-sketch-library-cd8c925e566" target="_blank">Building Our Sketch Library by Michael Fouquet</a></li>
+      </ul>
+      
+     </div>
+     
+     <a class="bottom" href="b2b.html">
+       <div class="btn bottombar">
+        <p><strong>Next Project :</strong><br>
+        B2B Portal: Transform The Way Businesses Pay &amp; Get Paid</p>
+      </div>
+     </a>
+   
+    <script src="script.js"></script>
+  </body>
+  
+</html>

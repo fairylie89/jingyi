@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="904" height="560" viewBox="0 0 904 560">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#F8F8F8" d="M0 0h905v560H0z"/>
+        <g fill="#000" fill-opacity=".86">
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257" transform="translate(20 405)">
+                <tspan x="0" y="28">Emotion: </tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="159" y="40">🙂</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="345" y="40">🙁</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="531" y="40">☹️</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 405)">
+                <tspan x="717" y="40">😠</tspan>
+            </text>
+        </g>
+        <path stroke="#2D4088" stroke-width="2" d="M677 180h160v188H677z"/>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(676 179)">
+            <tspan x="16" y="30">Report to the </tspan> <tspan x="16" y="54">management </tspan> <tspan x="16" y="78">office</tspan>
+        </text>
+        <path stroke="#2D4088" stroke-width="2" d="M491 180h160v188H491z"/>
+        <g transform="rotate(45 -24.463 876.436)">
+            <path fill="#545E73" d="M2.724.839h26.803l1.715 3.246.753 15.68-1.998 40.164s.039 2.951-.47 5.26c-.509 2.308-1.347 2.987-1.347 2.987L7.613 69.63l-4.124-2.895L.944 47.72V4.929l1.78-4.09z"/>
+            <path fill="#8697CB" fill-rule="nonzero" d="M27.304 27.464H5.247c-.757 0-1.43-.8-1.43-1.778V9.688c0-.978.673-1.778 1.43-1.778h22.057c.757 0 1.43.8 1.43 1.778v16.087c0 .977-.673 1.689-1.43 1.689zM5.247 9.244c-.084 0-.168.177-.168.444v16.087c0 .266.168.444.168.444h22.057c.084 0 .168-.178.168-.444V9.688c0-.267-.168-.445-.168-.445H5.247z"/>
+            <path fill="#323A45" fill-rule="nonzero" d="M8.53 34.752H4.743c-.505 0-.926-.534-.926-1.067v-2.666c0-.622.421-1.067.926-1.067h3.789c.505 0 .926.533.926 1.067v2.666c0 .622-.421 1.067-.926 1.067z"/>
+            <path fill="#8697CB" fill-rule="nonzero" d="M10.298 42.662H4.742c-.505 0-.926-.534-.926-1.067v-3.11c0-.623.421-1.067.926-1.067h5.556c.506 0 .926.533.926 1.066v3.111c.085.622-.42 1.067-.926 1.067zM19.138 42.662h-5.556c-.505 0-.926-.534-.926-1.067v-3.11c0-.623.42-1.067.926-1.067h5.556c.505 0 .926.533.926 1.066v3.111c0 .622-.421 1.067-.926 1.067zM27.64 42.662h-5.05c-.506 0-.927-.534-.927-1.067v-3.11c0-.623.421-1.067.926-1.067h5.051c.505 0 .926.533.926 1.066v3.111c0 .622-.42 1.067-.926 1.067zM10.298 49.061H4.742c-.505 0-.926-.533-.926-1.067v-3.11c0-.622.421-1.067.926-1.067h5.556c.506 0 .926.533.926 1.067v3.11c.085.623-.42 1.067-.926 1.067zM19.138 49.061h-5.556c-.505 0-.926-.533-.926-1.067v-3.11c0-.622.42-1.067.926-1.067h5.556c.505 0 .926.533.926 1.067v3.11c0 .623-.421 1.067-.926 1.067zM27.64 49.061h-5.05c-.506 0-.927-.533-.927-1.067v-3.11c0-.622.421-1.067.926-1.067h5.051c.505 0 .926.533.926 1.067v3.11c0 .623-.42 1.067-.926 1.067zM10.298 55.46H4.742c-.505 0-.926-.533-.926-1.066v-3.111c0-.622.421-1.067.926-1.067h5.556c.506 0 .926.534.926 1.067v3.11c.085.534-.42 1.067-.926 1.067zM19.138 55.46h-5.556c-.505 0-.926-.533-.926-1.066v-3.111c0-.622.42-1.067.926-1.067h5.556c.505 0 .926.534.926 1.067v3.11c0 .534-.421 1.067-.926 1.067zM27.64 55.46h-5.05c-.506 0-.927-.533-.927-1.066v-3.111c0-.622.421-1.067.926-1.067h5.051c.505 0 .926.534.926 1.067v3.11c0 .534-.42 1.067-.926 1.067zM10.298 61.948H4.742c-.505 0-.926-.533-.926-1.066v-3.11c0-.623.421-1.067.926-1.067h5.556c.506 0 .926.533.926 1.066v3.11c.085.534-.42 1.067-.926 1.067zM19.138 61.948h-5.556c-.505 0-.926-.533-.926-1.066v-3.11c0-.623.42-1.067.926-1.067h5.556c.505 0 .926.533.926 1.066v3.11c0 .534-.421 1.067-.926 1.067zM27.64 61.948h-5.05c-.506 0-.927-.533-.927-1.066v-3.11c0-.623.421-1.067.926-1.067h5.051c.505 0 .926.533.926 1.066v3.11c0 .534-.42 1.067-.926 1.067z"/>
+            <path fill="#323A45" fill-rule="nonzero" d="M14.929 34.752H11.14c-.505 0-.926-.534-.926-1.067v-2.666c0-.622.421-1.067.926-1.067h3.789c.505 0 .926.533.926 1.067v2.666c0 .622-.421 1.067-.926 1.067zM21.41 34.752h-3.788c-.505 0-.926-.534-.926-1.067v-2.666c0-.622.421-1.067.926-1.067h3.789c.505 0 .926.533.926 1.067v2.666c0 .622-.421 1.067-.926 1.067zM27.809 34.752H24.02c-.505 0-.926-.534-.926-1.067v-2.666c0-.622.421-1.067.926-1.067h3.789c.505 0 .926.533.926 1.067v2.666c0 .622-.421 1.067-.926 1.067zM26.714 66.392H5.837c0 1.247.673 2.494 1.515 2.494h17.847c.842-.25 1.515-1.247 1.515-2.494z"/>
+            <path fill="#545E73" fill-rule="nonzero" stroke="#545E73" stroke-width=".3" d="M32.018 4.266c0-2.31-1.852-4.266-4.125-4.266H4.658C2.385 0 .533 1.866.533 4.266.45 4.711.113 8.532.113 17.42c0 8.533.336 23.553 1.935 46.84.253 3.021 2.694 5.42 5.64 5.42h.338v-1.332h-.337c-2.273 0-4.21-1.867-4.378-4.178C.112 19.91 1.711 4.622 1.796 4.444v-.089c0-1.6 1.263-2.933 2.862-2.933h23.235c1.6 0 2.862 1.333 2.862 2.933v.089s.421 3.822.421 13.065c0 8.532-.337 23.464-2.02 46.661-.169 2.4-2.105 4.178-4.378 4.178h-.252v1.333h.168c2.946 0 5.388-2.4 5.64-5.422 3.2-43.55 1.768-59.104 1.684-59.993z"/>
+            <path fill="#D6A35F" fill-rule="nonzero" d="M23.6 79.99H8.951c-1.095 0-1.937-.977-1.937-2.132V66.392H25.62v11.466c0 1.155-.926 2.133-2.02 2.133z"/>
+            <rect width="24.639" height="18.715" x="3.545" y="8.137" fill="#8697CB" rx="2"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(490 179)">
+            <tspan x="16" y="30">Calculate the </tspan> <tspan x="16" y="54">MintChip balance </tspan> <tspan x="16" y="78">in the ingenico </tspan> <tspan x="16" y="102">device</tspan>
+        </text>
+        <g>
+            <path stroke="#2D4088" stroke-width="2" d="M305 180h160v188H305z"/>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(304 179)">
+                <tspan x="16" y="30">Open MintChip </tspan> <tspan x="16" y="54">device 2, cash out </tspan> <tspan x="16" y="78">from the app</tspan>
+            </text>
+            <g transform="translate(345.03 293.285)">
+                <rect width="79.389" height="53.87" fill="#545E73" rx="5"/>
+                <rect width="66.029" height="46.174" x="5.198" y="3.848" fill="#8697CB" rx="2"/>
+                <ellipse cx="74.937" cy="26.935" fill="#323A45" rx="2.226" ry="2.309"/>
+                <ellipse cx="2.46" cy="27.969" fill="#323A45" rx="1" ry="1"/>
+            </g>
+        </g>
+        <g>
+            <path stroke="#2D4088" stroke-width="2" d="M119 180h160v188H119z"/>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(118 179)">
+                <tspan x="16" y="30">Open MintChip </tspan> <tspan x="16" y="54">device 1, cash out </tspan> <tspan x="16" y="78">from the app</tspan>
+            </text>
+            <g transform="translate(159.03 293.285)">
+                <rect width="79.389" height="53.87" fill="#545E73" rx="5"/>
+                <rect width="66.029" height="46.174" x="5.198" y="3.848" fill="#8697CB" rx="2"/>
+                <ellipse cx="74.937" cy="26.935" fill="#323A45" rx="2.226" ry="2.309"/>
+                <ellipse cx="2.46" cy="27.969" fill="#323A45" rx="1" ry="1"/>
+            </g>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257" transform="translate(20 179)">
+            <tspan x="0" y="16">Task</tspan> <tspan x="0" y="35">Flow: </tspan>
+        </text>
+        <g fill="#000" fill-opacity=".86" font-size="16" letter-spacing=".257">
+            <text font-family="Lato-Bold, Lato" font-weight="bold" transform="translate(20 120)">
+                <tspan x="0" y="16">Goal: </tspan>
+            </text>
+            <text font-family="Lato-Regular, Lato" transform="translate(20 120)">
+                <tspan x="98" y="16">Cash out MintChip balance weekly to the restaurant’s bank account</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#2D4088" d="M0 0h734v96H0z"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="24" font-weight="bold" letter-spacing=".386">
+                <tspan x="18.35" y="40">Cash Out Flow - Keiko</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Regular, Lato" font-size="20" letter-spacing=".321">
+                <tspan x="18.35" y="76">User Journey Map</tspan>
+            </text>
+            <g>
+                <path fill="#2CAB70" d="M734 0h171v96H734z"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" letter-spacing=".321" transform="translate(734)">
+                    <tspan x="41.04" y="56">BEFORE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

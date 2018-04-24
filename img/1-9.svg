@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1126" viewBox="0 0 1500 1126">
+    <defs>
+        <path id="a" d="M0 0h162v153H0z"/>
+        <path id="b" d="M0 0h162v104H0z"/>
+        <path id="c" d="M0 0h162v104H0z"/>
+        <path id="d" d="M0 0h162v104H0z"/>
+        <path id="e" d="M0 0h162v137H0z"/>
+        <path id="f" d="M0 0h162v153H0z"/>
+        <path id="g" d="M0 0h162v85H0z"/>
+        <path id="h" d="M73.756 4.995c3.448-2.759 9.044-2.755 12.488 0l67.512 54.01c3.448 2.759 3.444 7.235 0 9.99l-67.512 54.01c-3.448 2.759-9.044 2.755-12.488 0L6.244 68.995c-3.448-2.759-3.444-7.235 0-9.99l67.512-54.01z"/>
+        <path id="i" d="M73.756 4.995c3.448-2.759 9.044-2.755 12.488 0l67.512 54.01c3.448 2.759 3.444 7.235 0 9.99l-67.512 54.01c-3.448 2.759-9.044 2.755-12.488 0L6.244 68.995c-3.448-2.759-3.444-7.235 0-9.99l67.512-54.01z"/>
+        <path id="j" d="M73.756 4.995c3.448-2.759 9.044-2.755 12.488 0l67.512 54.01c3.448 2.759 3.444 7.235 0 9.99l-67.512 54.01c-3.448 2.759-9.044 2.755-12.488 0L6.244 68.995c-3.448-2.759-3.444-7.235 0-9.99l67.512-54.01z"/>
+        <path id="k" d="M73.756 4.995c3.448-2.759 9.044-2.755 12.488 0l67.512 54.01c3.448 2.759 3.444 7.235 0 9.99l-67.512 54.01c-3.448 2.759-9.044 2.755-12.488 0L6.244 68.995c-3.448-2.759-3.444-7.235 0-9.99l67.512-54.01z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#F8F8F8" d="M0 0h1500v1130H0z"/>
+        <g fill="#000" fill-opacity=".86">
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257" transform="translate(20 873)">
+                <tspan x="0" y="28">Emotion: </tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 873)">
+                <tspan x="159" y="40">🙁</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 873)">
+                <tspan x="317" y="44">🙂☹️😣😡🤯</tspan>
+            </text>
+            <text font-family="AppleColorEmoji, Apple Color Emoji" font-size="40" letter-spacing=".343" transform="translate(20 873)">
+                <tspan x="1206" y="44">😥</tspan>
+            </text>
+            <text font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".137" transform="translate(20 873)">
+                <tspan x="317" y="81">Depends on the process, Keiko can have very different emotions. If she can find the </tspan> <tspan x="317" y="105">transaction in the device 1 and solve the problem, then she is happy. </tspan> <tspan x="317" y="129">But if it turns out that the transaction is on the last device, then it will cost much </tspan> <tspan x="317" y="153">more time, Keiko can turn into a very unhappy state, plus the customer on the </tspan> <tspan x="317" y="177">phone can get impatient.</tspan>
+            </text>
+            <text font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".137" transform="translate(20 873)">
+                <tspan x="1029" y="81">There is no refund option, so Keiko has to ask the </tspan> <tspan x="1029" y="105">customer to come in and refund by cash, or send a </tspan> <tspan x="1029" y="129">MintChip payment using another account, which causes </tspan> <tspan x="1029" y="153">a lot of unnecessary steps and problems when </tspan> <tspan x="1029" y="177">generating sales report.</tspan>
+            </text>
+        </g>
+        <g transform="translate(118 179)">
+            <use fill="#FFF" xlink:href="#a"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v151H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(118 179)">
+            <tspan x="16" y="32">Ask customer for </tspan> <tspan x="16" y="56">the details of the </tspan> <tspan x="16" y="80">transactions, such </tspan> <tspan x="16" y="104">as date, amount </tspan> <tspan x="16" y="128">and server</tspan>
+        </text>
+        <path fill="#FFC8C1" stroke="#D81E05" stroke-dasharray="12" stroke-width="2" d="M307 168h525v546H307V168z"/>
+        <g transform="translate(336 179)">
+            <use fill="#FFF" xlink:href="#b"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v102H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(336 179)">
+            <tspan x="16" y="32">Look for </tspan> <tspan x="16" y="56">transaction on </tspan> <tspan x="16" y="80">Device 1</tspan>
+        </text>
+        <g transform="translate(341 377)">
+            <use fill="#FFF" xlink:href="#c"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v102H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(341 377)">
+            <tspan x="16" y="32">Look for </tspan> <tspan x="16" y="56">transaction on </tspan> <tspan x="16" y="80">Device 2</tspan>
+        </text>
+        <g transform="translate(341 575)">
+            <use fill="#FFF" xlink:href="#d"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v102H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(341 575)">
+            <tspan x="16" y="32">Look for </tspan> <tspan x="16" y="56">transaction on </tspan> <tspan x="16" y="80">Device 3</tspan>
+        </text>
+        <g transform="translate(872 168)">
+            <use fill="#FFF" xlink:href="#e"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v135H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(872 168)">
+            <tspan x="16" y="32">Check the details </tspan> <tspan x="16" y="56">and respnd to the </tspan> <tspan x="16" y="80">customer’s </tspan> <tspan x="16" y="104">request</tspan>
+        </text>
+        <g transform="translate(1274 163)">
+            <use fill="#FFF" xlink:href="#f"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v151H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(1274 163)">
+            <tspan x="16" y="32">Ask customer to </tspan> <tspan x="16" y="56">come in for cash </tspan> <tspan x="16" y="80">refund / send a </tspan> <tspan x="16" y="104">MintChip </tspan> <tspan x="16" y="128">payment</tspan>
+        </text>
+        <g transform="translate(1076 469)">
+            <use fill="#FFF" xlink:href="#g"/>
+            <path stroke="#2D4088" stroke-width="2" d="M1 1h160v83H1z"/>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(1076 469)">
+            <tspan x="16" y="32">Customer&apos;s </tspan> <tspan x="16" y="56">mistake / other</tspan>
+        </text>
+        <g>
+            <path stroke="#304FFE" stroke-width="2" d="M279 234h51"/>
+            <path fill="#304FFE" d="M335 234l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(274 229)"/>
+        </g>
+        <g>
+            <g transform="translate(543 563)">
+                <use fill="#FFF" xlink:href="#h"/>
+                <path stroke="#2D4088" stroke-width="2" d="M74.38 5.776L6.87 59.786c-2.945 2.356-2.947 6.071 0 8.428l67.512 54.01c3.08 2.464 8.157 2.465 11.238 0l67.512-54.01c2.945-2.356 2.947-6.071 0-8.428L85.62 5.776c-3.08-2.464-8.157-2.465-11.238 0z"/>
+            </g>
+            <text fill="#000" font-family="Lato-Regular, Lato" font-size="16" transform="translate(543 563)">
+                <tspan x="44.768" y="49">Found the </tspan> <tspan x="37.064" y="68">transaction?</tspan>
+            </text>
+            <path stroke="#304FFE" stroke-width="2" d="M501 628h41"/>
+            <path fill="#304FFE" d="M547 628l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(496 623)"/>
+            <path stroke="#304FFE" stroke-width="2" d="M700 628h251a8 8 0 0 0 8-8V307"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(695 623)"/>
+            <path fill="#304FFE" d="M960 303l5 8h-10z"/>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(190 307)">
+                <tspan x="503" y="300">Y</tspan>
+            </text>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(190 307)">
+                <tspan x="381" y="388">N</tspan>
+            </text>
+            <g>
+                <path stroke="#304FFE" stroke-width="2" d="M195 334.893v430.105a8.005 8.005 0 0 0 8.003 8.002h411.994a8 8 0 0 0 8.003-8.005v-81.53"/>
+                <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(618 682)"/>
+                <path fill="#304FFE" d="M196 331l5 8h-10z"/>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(543 365)">
+                <use fill="#FFF" xlink:href="#i"/>
+                <path stroke="#2D4088" stroke-width="2" d="M74.38 5.776L6.87 59.786c-2.945 2.356-2.947 6.071 0 8.428l67.512 54.01c3.08 2.464 8.157 2.465 11.238 0l67.512-54.01c2.945-2.356 2.947-6.071 0-8.428L85.62 5.776c-3.08-2.464-8.157-2.465-11.238 0z"/>
+            </g>
+            <text fill="#000" font-family="Lato-Regular, Lato" font-size="16" transform="translate(543 365)">
+                <tspan x="44.768" y="49">Found the </tspan> <tspan x="37.064" y="68">transaction?</tspan>
+            </text>
+            <path stroke="#304FFE" stroke-width="2" d="M501 430h41"/>
+            <path fill="#304FFE" d="M547 430l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(496 425)"/>
+            <path stroke="#304FFE" stroke-width="2" d="M698 430h253a8 8 0 0 0 8-8V307"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(693 425)"/>
+            <path fill="#304FFE" d="M960 303l5 8h-10z"/>
+            <g>
+                <path stroke="#304FFE" stroke-width="2" d="M621 491v32.003a8 8 0 0 1-8 8l-178-.006a8 8 0 0 0-8 8V571"/>
+                <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(616 486)"/>
+                <path fill="#304FFE" d="M428 575l-5-8h10z"/>
+            </g>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(427 307)">
+                <tspan x="262" y="104">Y</tspan>
+            </text>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(427 307)">
+                <tspan x="139" y="206">N</tspan>
+            </text>
+        </g>
+        <g>
+            <g transform="translate(538 169)">
+                <use fill="#FFF" xlink:href="#j"/>
+                <path stroke="#2D4088" stroke-width="2" d="M74.38 5.776L6.87 59.786c-2.945 2.356-2.947 6.071 0 8.428l67.512 54.01c3.08 2.464 8.157 2.465 11.238 0l67.512-54.01c2.945-2.356 2.947-6.071 0-8.428L85.62 5.776c-3.08-2.464-8.157-2.465-11.238 0z"/>
+            </g>
+            <text fill="#000" font-family="Lato-Regular, Lato" font-size="16" transform="translate(538 169)">
+                <tspan x="44.768" y="49">Found the </tspan> <tspan x="37.064" y="68">transaction?</tspan>
+            </text>
+            <path stroke="#304FFE" stroke-width="2" d="M496 234h41"/>
+            <path fill="#304FFE" d="M542 234l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(491 229)"/>
+            <path stroke="#304FFE" stroke-width="2" d="M692 233h175"/>
+            <path fill="#304FFE" d="M872 233l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(687 228)"/>
+            <g>
+                <path stroke="#304FFE" stroke-width="2" d="M616 295v32.003a8 8 0 0 1-8 8l-178-.006a8 8 0 0 0-8 8V375"/>
+                <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(611 290)"/>
+                <path fill="#304FFE" d="M423 379l-5-8h10z"/>
+            </g>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(422 147)">
+                <tspan x="278" y="68">Y</tspan>
+            </text>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(422 147)">
+                <tspan x="155" y="170">N</tspan>
+            </text>
+        </g>
+        <g>
+            <g transform="translate(1075 170)">
+                <use fill="#FFF" xlink:href="#k"/>
+                <path stroke="#2D4088" stroke-width="2" d="M74.38 5.776L6.87 59.786c-2.945 2.356-2.947 6.071 0 8.428l67.512 54.01c3.08 2.464 8.157 2.465 11.238 0l67.512-54.01c2.945-2.356 2.947-6.071 0-8.428L85.62 5.776c-3.08-2.464-8.157-2.465-11.238 0z"/>
+            </g>
+            <text fill="#000" font-family="Lato-Regular, Lato" font-size="16" transform="translate(1075 170)">
+                <tspan x="51.408" y="49">Refund?</tspan>
+            </text>
+            <path stroke="#304FFE" stroke-width="2" d="M1033 235h41"/>
+            <path fill="#304FFE" d="M1079 235l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(1028 230)"/>
+            <path stroke="#304FFE" stroke-width="2" d="M1229 234h41"/>
+            <path fill="#304FFE" d="M1275 234l-8 5v-10z"/>
+            <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(1224 229)"/>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(1033 148)">
+                <tspan x="204" y="68">Y</tspan>
+            </text>
+            <text fill="#000" fill-opacity=".86" font-family="Lato-Regular, Lato" font-size="16" letter-spacing=".257" transform="translate(1033 148)">
+                <tspan x="81" y="170">N</tspan>
+            </text>
+            <g>
+                <path stroke="#304FFE" stroke-width="2" d="M1155 294v172"/>
+                <path fill="#304FFE" d="M1156 470l-5-8h10z"/>
+                <circle cx="5" cy="5" r="4" fill="#FFF" stroke="#304FFE" stroke-width="2" transform="translate(1150 289)"/>
+            </g>
+        </g>
+        <text fill="#000" fill-opacity=".86" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257" transform="translate(20 147)">
+            <tspan x="0" y="48">Task</tspan> <tspan x="0" y="67">Flow: </tspan>
+        </text>
+        <g fill="#000" fill-opacity=".86" font-size="16" letter-spacing=".257">
+            <text font-family="Lato-Bold, Lato" font-weight="bold" transform="translate(20 120)">
+                <tspan x="0" y="16">Scenario: </tspan>
+            </text>
+            <text font-family="Lato-Regular, Lato" transform="translate(20 120)">
+                <tspan x="98" y="16">A customer calls in for a complaint of MintChip overcharge when Keiko and server Anna are working. </tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#2D4088" d="M0 0h1216.01v96H0z"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="24" font-weight="bold" letter-spacing=".386">
+                <tspan x="30.4" y="40">Refund Flow - Keiko</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Regular, Lato" font-size="20" letter-spacing=".321">
+                <tspan x="30.4" y="76">User Journey Map</tspan>
+            </text>
+            <g>
+                <path fill="#2CAB70" d="M1216.01 0H1500v96h-283.99z"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="20" font-weight="bold" letter-spacing=".321" transform="translate(1216.01)">
+                    <tspan x="103.852" y="56">BEFORE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
