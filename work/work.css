@@ -8,7 +8,7 @@ b {font-style: oblique;}
 .gap {margin-bottom: 32px;}
 
 footer a:hover, .btn, .btn:hover, .bottom:hover{text-decoration: none;}
-a:not(.bottom, nav a):visited {color: #551A8B;}
+a:not(.bottom, nav a, .btn):visited {color: #551A8B;}
 .label {
   margin: 24px 0 40px;
 }
