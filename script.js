@@ -4,7 +4,7 @@ $(document).ready(function(){
     $('#toggle').toggleClass("fa-list-ul fa-times");
   }))
   $('#content a').on('touchstart click',function(){
-    $('#content').removeClass("show").addClass('hide');
-    $('#toggle').removeClass("fa-times").addClass('fa-list-ul');
+    $('#content').toggleClass("show hide"); 
+    $('#toggle').toggleClass("fa-times fa-list-ul");
   })
 });
