@@ -21,8 +21,10 @@
   bottom:100px;
   right:20px;
   z-index: 9999;
-  
   min-width: 280px;
+  max-height: 80vh;
+  overflow-y: scroll;
+  
   padding: 1.8em;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2); 
   border-radius: 20px;
