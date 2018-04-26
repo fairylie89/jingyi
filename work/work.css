@@ -136,7 +136,6 @@ input {
   width: 60%;
   margin-top: 1.8em;
 }
-#protected{display: none;}
 @media only screen and (min-width: 768px){
   h2 {font-size: 2.5em;}
   h3 {font-size: 1.5em;}

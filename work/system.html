@@ -21,7 +21,8 @@
     <link rel="mask-icon" href="../favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="theme-color" content="#ffffff">
-    
+    <!--font awesome-->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
     <!--jQuery-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!--my CSS-->
@@ -29,10 +30,11 @@
     <link href="https://fonts.googleapis.com/css?family=PT+Serif:400i" rel="stylesheet">
     <link rel="stylesheet" href="../css/main.css" type="text/css">
     <link rel="stylesheet" href="work.css" type="text/css">
-    <link rel="stylesheet" href="../cs/debug.css" type="text/css">
+    <link rel="stylesheet" href="float.css" type="text/css">
   </head>
   
   <body>
+   
    <div class="container">
     <nav>
       <a href="../index.html" id="branding">Jingyi Lai</a>
@@ -40,6 +42,33 @@
       <a href="../about.html">About</a> 
     </nav>
     
+    <!--FAB for table of contents-->
+    <div id="content" class="hide">
+      <p>Table of Contents</p>
+      <ul>
+        <li><a href="#background">Background &amp; Problem</a></li>
+        <li><a href="#goal">Goals &amp; Limitations</a></li>
+        <li><a href="#foundation">The Foundation: Seeking The Pattern</a></li>
+        <li><a href="#brick">Adding The Bricks &amp; Concrete: Reusable Components</a></li>
+        <li><a href="#visual">Painting The Surface: Visual Style Guide</a></li>
+        <li><a href="#bridge">Bridging The Gaps</a></li>
+        <li><a href="#development">The Development</a></li>
+        <li><a href="#workflow">Supercharging Designers Workflow</a></li>
+        <li><a href="#next">Next Step</a></li>
+      </ul>
+        <hr/>
+      <div id="float-nav">
+        <a href="diandian.html"><i class="fas fa-angle-double-left"></i> Previous</a>
+        <a href="encrypted.html">Next <i class="fas fa-angle-double-right"></i></a>
+        <a href="#">Top <i class="fas fa-arrow-up"></i></a>
+      </div>
+    </div>
+    <div>
+     <a id="float">
+     <div><i id="toggle" class="fas fa-list-ul my-float"></i></div>
+     </a>
+    </div>
+   
     <!--The start of the article-->
       <h1 class="header">nanopay Design System: Accelerating The Design &amp; Development</h1>
       <p class="label">System Design, Front-end Development</p>
@@ -50,12 +79,12 @@
       <p>nanopay Design System is a structural and visual guideline to standardize and accelerate the design &amp; development process.
       It consists of a live style guide with reusable components, design guidelines, CSS snippets,  and a component library for designers. </p>
       
-      <h2>Background &amp; Problem</h2>
+      <h2 id="background">Background &amp; Problem</h2>
       <p>As the company grows, we've been adding more and more payment services. The scaling has caused some problems: customers have to switch between different accounts to access different services; developers have to manage different platforms with similar structures separately; the designer has more and more separated design files in the drive.<br><br>
       We've made a crucial decision: <b>Unify all our services to the core nanopay platform while switching our technology framework to FOAM for higher perfromence.</b><br><br>
       <span><a href="b2b.html">This is a critical challenge for me</a></span>, as this required an overall deep review of the existing products and a more visionary, compatible and mindful design.</p>
       
-      <h2>Goals &amp; Limitation </h2>
+      <h2 id="goal">Goals &amp; Limitation </h2>
       <p>Design goals should always match with the business goals:</p>
       <ul class="goal">
         <li>Standardize and unify the visual style, components used for different services to deliver a smooth deliver a smooth, beautiful and consistent user experience.</li>
@@ -63,7 +92,7 @@
       </ul>
       <p>Due to limited resources and tight deadlines to deliver products to our clients, we had to minimize the development cost, which means we could not afford a complete redesign. What I decided was to put the latest B2B portal as the main and revise based on it.</p>
       
-      <h2>The Foundation: Seeking The Patterns</h2>
+      <h2 id="foundation">The Foundation: Seeking The Patterns</h2>
       <p>Building up the design system is like building a house, you will need to build the foundation first, then gradually adding the bricks and concrete, and finally paint it in the beautiful colors you like. <br><br>
       Therefore, the first step I took is to go through all of the existing products and look for commonalities. We have the <span><a href="retail.html">Retail Portal</a></span> , <span><a href="b2b.html">B2B Portal</a></span> , Support Portal and other web-based tools for our clients. . I categorized the UI design based on the different structures and created the general layout. </p>
       <figure>
@@ -79,7 +108,7 @@
       </figure>
       <p>The skeletons have set up the foundation of the platform, next step is to add the bricks. </p>
       
-      <h2>Adding The Bricks &amp; Concrete: Reusable Components</h2>
+      <h2 id="brick">Adding The Bricks &amp; Concrete: Reusable Components</h2>
       <p>Remember the giant style guide we create after every project? There are buttons, checkboxes, lists, tables....almost every actionable element appeared in the product. I looked through the style guides and looked for the components playing the same role, then I unified them together based on the design of the B2B portal.</p>
       <figure>
         <img src="../img/3-2-3.png" srcset="../img/3-2-3@2x.png 2x,
@@ -101,7 +130,7 @@
       <p>I also added the use cases for the components, like the main button should be used for primary actions only. Separated components are like separated bricks, only the proper concrete can put them together. Having a specific component dedicated to the specific use cases is the key to deliver a consistent user experience.</p>
       
       
-      <h2>Painting The Surface: Visual Style Guide</h2>
+      <h2 id="visual">Painting The Surface: Visual Style Guide</h2>
       <p>The last step in building a house is to paint the wall and add the decorations, and for the system, is the visual style guide.</p>
       <video width="100%" controls="true" muted>
           <source src="../img/video/3visual.mp4" type="video/mp4">
@@ -109,7 +138,7 @@
       </video>
       <figcaption>Video/ Above shows the color scheme and text styles of the Design System</figcaption>
       
-      <h2>Bridging The Gaps</h2>
+      <h2 id="bridge">Bridging The Gaps</h2>
       <p>Besides the efforts to standardize and unify the design, I also worked on optimizing the workflow when designers collaborating with the rest of the company.</p>
       <h3>1. Between Designer &amp; Marketing Team</h3>
       <p>Sometimes conversations between the marketing team and me are like this:</p>
@@ -168,14 +197,14 @@
         <figcaption>3-2-7 / Design resources</figcaption> 
       </figure>
        
-      <h2>The Development</h2>
+      <h2 id="development">The Development</h2>
       <p>I was responsible for designing and developing the design system website. I made a simple and responsive design with the existing color palette,  then developed it using plain HTML, CSS and JavaScript. It was launched for internal use at the beginning of 2018.</p>
       <figure class="gap">
         <img src="../img/3-2-8.gif" alt="responsive layout">
         <figcaption>3-2-8 / To make the menu prominent enough on mobile devices, I chose to show the menu instead of hiding it in the hamburger menu.</figcaption>
       </figure>
         
-      <h2>Supercharging Designers Workflow</h2>
+      <h2 id="workflow">Supercharging Designers Workflow</h2>
       <p>Besides the live style guide, I created a component <span><a href="https://sketchapp.com/docs/libraries/" target="_blank">library in SketchApp</a></span> to speed up the visual design process. With a shared component library, creating a hi-fi mockup could never be easier, which also makes rapid-prototyping possible in high fidelity.</p>
       <figure>
         <img src="../img/3-3-1.gif" alt="demo of how to quickly create a mockup using components library">
@@ -185,7 +214,7 @@
       Thanks to <span><a href="https://medium.com/in-the-hudl/building-our-sketch-library-cd8c925e566" target="_blank">Michael Fouquet sharing how they build up the sketch library</a></span>,  I was able to quickly put the components together, launch, and start using them!</p>
       
       
-      <h2>Next Step</h2>
+      <h2 id="next">Next Step</h2>
       <p>As for now, I only identified the proper CSS for different text styles. In the future, we'd like to build our own CSS components library, to accelerate the development process, minimize design discrepancies and reduce the workload on universal changes.</p> 
       
       <hr/>
@@ -205,7 +234,7 @@
       </div>
      </a>
    
-    <script src="script.js"></script>
+    <script src="../script.js"></script>
   </body>
   
 </html>
