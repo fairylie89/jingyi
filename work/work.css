@@ -1,10 +1,10 @@
 h1 {margin-bottom: 0;}
 h2 {font-size: 1.5em;margin: 0;}
 h3 {
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 500;
 }
-b {font-style: oblique;}
+b {font-style: italic;}
 .gap {margin-bottom: 32px;}
 
 footer a:hover, .btn, .btn:hover, .bottom:hover{text-decoration: none;}
@@ -30,6 +30,7 @@ a:not(.bottom, nav a, .btn):visited {color: #551A8B;}
 .cta {margin-bottom: 64px;}
 figcaption {
   font-family: 'PT Serif', serif;
+  font-style: italic;
   font-size: 0.85em;
   color: rgba(0,0,0,0.36);
   margin: 8px 0;
@@ -69,6 +70,7 @@ li {
   height: 100%;
 }
 /*table*/
+table {font-size: 0.8em;}
 th {
   text-align: center;
   background-color: #edf0f5;
@@ -137,6 +139,7 @@ input {
   margin-top: 1.8em;
 }
 @media only screen and (min-width: 768px){
+  table {font-size: 1em;}
   h2 {font-size: 2.5em;}
   h3 {font-size: 1.5em;}
   .bubble {width: 640px; margin: auto;}
