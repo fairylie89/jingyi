@@ -6,10 +6,15 @@
         max-width: 960px;
         margin: 0 auto;
   }
+  *::-ms-backdrop, .container {
+        display: block;
+        padding: 0 5%;
+        max-width: 960px;
+        margin: 0 auto;
+  } /* IE11 */
 }
-
 /*EDGE*/
-@supports (-ms-ime-align:auto) {
+@supports (-ms-ime-align:auto), (-ms-accelerator:true) {
   .container {
       display: block;
       padding: 0 5%;
