@@ -125,9 +125,7 @@ footer p {
   .container {
     margin: 0 auto;
     display: grid;
-    display: -ms-grid;
     grid-template-columns:1fr 790px 1fr;
-    grid-columns:1fr 790px 1fr;
   }
   @supports (-ms-ime-align:auto) {
     .container {
@@ -137,6 +135,6 @@ footer p {
         margin: 0 auto;
     }
   }
-  .container > * {grid-column: 2; -ms-grid-column: 2;}
+  .container > * {grid-column: 2;}
 }
 

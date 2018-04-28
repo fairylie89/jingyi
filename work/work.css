@@ -149,7 +149,7 @@ input {
   figcaption {max-width: 80%; margin: 8px auto;}
   .big {
     grid-column: 1 / -1; 
-    -ms-grid-column: 1 / -1;
+
   } 
   .bottombar {text-align: center;} 
 }
