@@ -129,6 +129,13 @@ footer p {
     grid-template-columns:1fr 790px 1fr;
      -ms-grid-columns: 1fr 790px 1fr;
   }
+  @supports (-ms-ime-align:auto) {
+    .container {
+        display: block;
+        padding: 0 5%;
+        max-width: 830px;
+    }
+  }
   .container > * {grid-column: 2; -ms-grid-column: 2;}
 }
 
