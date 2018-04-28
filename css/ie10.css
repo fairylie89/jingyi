@@ -6,7 +6,7 @@
     max-width: 960px;
     margin: 0 auto;
   }
-  nav {
+  nav a {
     padding: 24px 0;
     display: inline-block; 
   }
