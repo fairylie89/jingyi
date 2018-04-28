@@ -1,0 +1,19 @@
+/*IE10 & 11*/
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active){
+    .container {
+        display: block;
+        padding: 0 5%;
+        max-width: 960px;
+        margin: 0 auto;
+  }
+}
+
+/*EDGE*/
+@supports (-ms-ime-align:auto) {
+  .container {
+      display: block;
+      padding: 0 5%;
+      max-width: 960px;
+      margin: 0 auto;
+  }
+}
