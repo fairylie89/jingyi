@@ -125,8 +125,10 @@ footer p {
   .container {
     margin: 0;
     display: grid;
+    display: -ms-grid;
     grid-template-columns:1fr 790px 1fr;
+     -ms-grid-columns: 1fr 790px 1fr;
   }
-  .container > * {grid-column: 2;}
+  .container > * {grid-column: 2; -ms-grid-column: 2;}
 }
 
