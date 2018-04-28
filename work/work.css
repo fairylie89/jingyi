@@ -147,17 +147,8 @@ input {
 
 @media only screen and (min-width: 830px){
   figcaption {max-width: 80%; margin: 8px auto;}
-<<<<<<< HEAD
-<<<<<<< HEAD
   .big {
     grid-column: 1 / -1; 
-
   } 
-=======
-  .big {grid-column: 1 / -1; -ms-grid-column: 1 / -1;} 
->>>>>>> parent of 11ea11a... apply IE and Edge fix to universal
-=======
-  .big {grid-column: 1 / -1; -ms-grid-column: 1 / -1;} 
->>>>>>> parent of 11ea11a... apply IE and Edge fix to universal
   .bottombar {text-align: center;} 
 }
