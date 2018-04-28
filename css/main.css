@@ -114,7 +114,15 @@ hr {border-top: 1px solid rgba(0,0,0,0.36);}
 footer p {
   text-align: center;
 }
-
+/*IE10 & 11*/
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active){
+    .container {
+        display: block;
+        padding: 0 5%;
+        max-width: 960px;
+        margin: 0 auto;
+  }
+}
 @media only screen and (min-width: 768px){
   h1 {font-size: 3.6em;}
   h2 {font-size: 1.5em;}
@@ -126,14 +134,6 @@ footer p {
     margin: 0 auto;
     display: grid;
     grid-template-columns:1fr 790px 1fr;
-  }
-  /*IE10 & 11*/
-  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active){
-    .container {
-        display: block;
-        padding: 0 5%;
-        max-width: 960px;
-        margin: 0 auto;
   }
   /*EDGE*/
   @supports (-ms-ime-align:auto) {
