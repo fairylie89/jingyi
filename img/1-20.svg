@@ -1,0 +1,354 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1635" height="1206" viewBox="0 0 1635 1206">
+    <defs>
+        <path id="a" d="M120.5 216c49.982 0 90.5-40.518 90.5-90.5S170.482 35 120.5 35 30 75.518 30 125.5 70.518 216 120.5 216z"/>
+        <mask id="h" width="181" height="181" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <path id="b" d="M120.5 216c49.982 0 90.5-40.518 90.5-90.5S170.482 35 120.5 35 30 75.518 30 125.5 70.518 216 120.5 216z"/>
+        <mask id="i" width="181" height="181" x="0" y="0" fill="#fff">
+            <use xlink:href="#b"/>
+        </mask>
+        <path id="c" d="M120.5 216c49.982 0 90.5-40.518 90.5-90.5S170.482 35 120.5 35 30 75.518 30 125.5 70.518 216 120.5 216z"/>
+        <mask id="j" width="181" height="181" x="0" y="0" fill="#fff">
+            <use xlink:href="#c"/>
+        </mask>
+        <path id="d" d="M108.5 143c39.488 0 71.5-32.012 71.5-71.5S147.988 0 108.5 0 37 32.012 37 71.5 69.012 143 108.5 143z"/>
+        <mask id="k" width="143" height="143" x="0" y="0" fill="#fff">
+            <use xlink:href="#d"/>
+        </mask>
+        <path id="e" d="M108.5 143c39.488 0 71.5-32.012 71.5-71.5S147.988 0 108.5 0 37 32.012 37 71.5 69.012 143 108.5 143z"/>
+        <mask id="l" width="143" height="143" x="0" y="0" fill="#fff">
+            <use xlink:href="#e"/>
+        </mask>
+        <path id="f" d="M108.5 143c39.488 0 71.5-32.012 71.5-71.5S147.988 0 108.5 0 37 32.012 37 71.5 69.012 143 108.5 143z"/>
+        <mask id="m" width="143" height="143" x="0" y="0" fill="#fff">
+            <use xlink:href="#f"/>
+        </mask>
+        <path id="g" d="M119.5 239c65.998 0 119.5-53.502 119.5-119.5C239 53.502 185.498 0 119.5 0 53.502 0 0 53.502 0 119.5 0 185.498 53.502 239 119.5 239z"/>
+        <mask id="n" width="239" height="239" x="0" y="0" fill="#fff">
+            <use xlink:href="#g"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M-1 0h1637v1209.148H-1z"/>
+        <text fill="#000" fill-opacity=".86" font-family="Roboto-Bold, Roboto" font-size="40" font-weight="bold" letter-spacing=".643" transform="translate(-1)">
+            <tspan x="386" y="623">Before</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".86" font-family="Roboto-Bold, Roboto" font-size="40" font-weight="bold" letter-spacing=".643" transform="translate(-1)">
+            <tspan x="1240" y="623">After</tspan>
+        </text>
+        <g transform="translate(324 52)">
+            <use stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="6" mask="url(#h)" xlink:href="#a"/>
+            <g transform="translate(63 76)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(83)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 141)">
+                <circle cx="43" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="16.24" y="33">Cashier / </tspan> <tspan x="19.811" y="46">Servers</tspan>
+                </text>
+            </g>
+            <g transform="translate(164 141)">
+                <circle cx="35" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="1.954" y="33">Accountant / </tspan> <tspan x="4.202" y="46">Bookkeeper</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(475 319)">
+            <use stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="6" mask="url(#i)" xlink:href="#b"/>
+            <g transform="translate(63 76)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(83)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 141)">
+                <circle cx="43" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="16.24" y="33">Cashier / </tspan> <tspan x="19.811" y="46">Servers</tspan>
+                </text>
+            </g>
+            <g transform="translate(164 141)">
+                <circle cx="35" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="1.954" y="33">Accountant / </tspan> <tspan x="4.202" y="46">Bookkeeper</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(179 319)">
+            <use stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="6" mask="url(#j)" xlink:href="#c"/>
+            <g transform="translate(63 76)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(83)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 141)">
+                <circle cx="43" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="16.24" y="33">Cashier / </tspan> <tspan x="19.811" y="46">Servers</tspan>
+                </text>
+            </g>
+            <g transform="translate(164 141)">
+                <circle cx="35" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="1.954" y="33">Accountant / </tspan> <tspan x="4.202" y="46">Bookkeeper</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(1116 108)">
+            <use stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="4" mask="url(#k)" xlink:href="#d"/>
+            <g transform="translate(68 31)">
+                <circle cx="40.5" cy="40.5" r="40" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="15.746" y="29">MintChip </tspan> <tspan x="14.753" y="44">Merchant </tspan> <tspan x="30.574" y="59">App</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 48)">
+                <circle cx="29.5" cy="29.5" r="29.5" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="3.965" y="27">Cashier / </tspan> <tspan x="7.859" y="42">Servers</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(1040 240)">
+            <use stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="4" mask="url(#l)" xlink:href="#e"/>
+            <g transform="translate(68 31)">
+                <circle cx="40.5" cy="40.5" r="40" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="15.746" y="29">MintChip </tspan> <tspan x="14.753" y="44">Merchant </tspan> <tspan x="30.574" y="59">App</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 48)">
+                <circle cx="29.5" cy="29.5" r="29.5" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="3.965" y="27">Cashier / </tspan> <tspan x="7.859" y="42">Servers</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(1146 349)">
+            <use stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="4" mask="url(#m)" xlink:href="#f"/>
+            <g transform="translate(68 31)">
+                <circle cx="40.5" cy="40.5" r="40" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="15.746" y="29">MintChip </tspan> <tspan x="14.753" y="44">Merchant </tspan> <tspan x="30.574" y="59">App</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 48)">
+                <circle cx="29.5" cy="29.5" r="29.5" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="3.965" y="27">Cashier / </tspan> <tspan x="7.859" y="42">Servers</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(1280 147)">
+            <use fill="#FFF" stroke="#2D4088" stroke-dasharray="7,7,7" stroke-width="6" mask="url(#n)" xlink:href="#g"/>
+            <g transform="translate(156 139)">
+                <circle cx="46" cy="46" r="46" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing=".193">
+                    <tspan x="9.95" y="43">Accountant / </tspan> <tspan x="12.402" y="58">Bookkeeper</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(1318 115)">
+            <circle cx="57" cy="46" r="46" fill="#26A96C"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" letter-spacing=".257">
+                <tspan x="29.736" y="33">Service </tspan> <tspan x="19.155" y="52">Manager / </tspan> <tspan x="31.541" y="71">Owner</tspan>
+            </text>
+        </g>
+        <g transform="translate(1194 223)">
+            <circle cx="72" cy="72" r="72" fill="#61BBE8"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                <tspan x="40.818" y="69">Merchant </tspan> <tspan x="52.446" y="86">Portal</tspan>
+            </text>
+        </g>
+        <g>
+            <path stroke="#26A96C" stroke-linecap="square" stroke-width="2" d="M146 854l167 52M131 862l182 205M160 835l144-49M471 887L363 774"/>
+            <path stroke="#2D4088" stroke-linecap="square" stroke-width="2" d="M485 889L351 729"/>
+            <path stroke="#8FA7B2" stroke-linecap="square" stroke-width="2" d="M694 731l-338 23M702 765L376 907M669 1027l-323 82M670 1027l52-273"/>
+            <path stroke="#2D4088" stroke-linecap="square" stroke-width="2" d="M502 938l104 41"/>
+            <path stroke="#26A96C" stroke-linecap="square" stroke-width="2" d="M505 924H354M614 884l-115 26"/>
+            <path stroke="#2D4088" stroke-linecap="square" stroke-width="2" d="M464 915l-116-15"/>
+            <path stroke="#26A96C" stroke-linecap="square" stroke-width="2" d="M475 952l-116 134"/>
+            <path stroke="#2D4088" stroke-linecap="square" stroke-width="2" d="M487 953l-122 156"/>
+            <path stroke="#D92727" stroke-dasharray="8" stroke-linecap="square" stroke-width="2" d="M151 935l151-144M143 955l149-48M137 972l169 91"/>
+            <g transform="translate(280 704)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(280 874)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(280 1043)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(86 804)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(677 711)">
+                <circle cx="39" cy="35" r="35" fill="#8FA7B2"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="14.002" y="38">Customer</tspan>
+                </text>
+            </g>
+            <g transform="translate(441 885)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(82 924)">
+                <circle cx="43" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="16.24" y="33">Cashier / </tspan> <tspan x="19.811" y="46">Servers</tspan>
+                </text>
+            </g>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="168" y="157">Accept </tspan> <tspan x="168" y="173">payments</tspan>
+            </text>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="293" y="154">Generate</tspan> <tspan x="293" y="170">transaction </tspan> <tspan x="293" y="186">logs</tspan>
+            </text>
+            <text fill="#2D4088" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="358" y="113">Cash Out</tspan>
+            </text>
+            <text fill="#2D4088" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="362" y="336">Cash Out</tspan>
+            </text>
+            <text fill="#2D4088" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="437" y="279">to bank </tspan> <tspan x="437" y="295">account</tspan>
+            </text>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="442" y="166">Share </tspan> <tspan x="442" y="182">with</tspan>
+            </text>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="290" y="267">Generate</tspan> <tspan x="290" y="283">transaction </tspan> <tspan x="290" y="299">logs</tspan>
+            </text>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="167" y="264">Accept </tspan> <tspan x="167" y="280">payments</tspan>
+            </text>
+            <text fill="#DD3E3E" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="73" y="331">Access to </tspan> <tspan x="73" y="347">sensitive </tspan> <tspan x="73" y="363">info</tspan>
+            </text>
+            <text fill="#8FA7B2" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(82 704)">
+                <tspan x="446" y="20">Refund</tspan>
+            </text>
+            <path fill="#8FA7B2" fill-rule="nonzero" d="M640 960.571V962c0 .395-.32.714-.717.714h-2.15v1.072c0 .591-.481 1.071-1.075 1.071h-35.116c-.594 0-1.075-.48-1.075-1.071v-1.072h-2.15A.715.715 0 0 1 597 962v-1.429c0-.289.175-.55.443-.66l20.783-7.857a.719.719 0 0 1 .548 0l20.783 7.857c.268.11.443.371.443.66zm-2.15 27.143h-38.7c-1.187 0-2.15.96-2.15 2.143v1.429c0 .394.32.714.717.714h41.566c.396 0 .717-.32.717-.714v-1.429a2.146 2.146 0 0 0-2.15-2.143zm-33.683-21.428v17.143h-3.225c-.594 0-1.075.48-1.075 1.071v1.786h37.266V984.5c0-.592-.481-1.071-1.075-1.071h-3.225v-17.143H627.1v17.143h-5.733v-17.143h-5.734v17.143H609.9v-17.143h-5.733z"/>
+            <g transform="translate(583 838)">
+                <circle cx="35" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="1.954" y="33">Accountant / </tspan> <tspan x="4.202" y="46">Bookkeeper</tspan>
+                </text>
+            </g>
+        </g>
+        <g>
+            <path stroke="#26A96C" stroke-linecap="square" stroke-width="2" d="M946 872l167 52M931 880l182 205M960 853l144-49M1271 905l-108-113"/>
+            <path stroke="#2D4088" stroke-linecap="square" stroke-width="2" d="M1423 962l128 84"/>
+            <path stroke="#26A96C" stroke-linecap="square" stroke-width="2" d="M1397 942h-243M1552 862l-132 78M1275 970l-116 134M951 953l151-144M943 973l149-48M937 990l169 91"/>
+            <g transform="translate(1080 722)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(1080 892)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <g transform="translate(1080 1061)">
+                <circle cx="58" cy="50" r="50" fill="#2D4088"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="27.476" y="43">MintChip </tspan> <tspan x="11.63" y="60">Merchant App</tspan>
+                </text>
+            </g>
+            <path stroke="#8FA7B2" stroke-linecap="square" stroke-width="2" d="M1352 745l58 161"/>
+            <g transform="translate(1327 707)">
+                <circle cx="39" cy="35" r="35" fill="#8FA7B2"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="14.002" y="38">Customer</tspan>
+                </text>
+            </g>
+            <text fill="#8FA7B2" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(882 707)">
+                <tspan x="436" y="115">Refund</tspan>
+            </text>
+            <g transform="translate(886 822)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(1375 907)">
+                <circle cx="39" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="20.256" y="27">Service </tspan> <tspan x="12.981" y="40">Manager / </tspan> <tspan x="21.497" y="53">Owner</tspan>
+                </text>
+            </g>
+            <g transform="translate(882 942)">
+                <circle cx="43" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="16.24" y="33">Cashier / </tspan> <tspan x="19.811" y="46">Servers</tspan>
+                </text>
+            </g>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(882 707)">
+                <tspan x="168" y="172">Accept </tspan> <tspan x="168" y="188">payments</tspan>
+            </text>
+            <text fill="#2D4088" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(882 707)">
+                <tspan x="532" y="333">Cash out to </tspan> <tspan x="532" y="349">bank account</tspan>
+            </text>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(882 707)">
+                <tspan x="529" y="139">Generate</tspan> <tspan x="529" y="155">transaction logs </tspan> <tspan x="529" y="171">and share with</tspan>
+            </text>
+            <text fill="#26A96C" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225" transform="translate(882 707)">
+                <tspan x="167" y="279">Accept </tspan> <tspan x="167" y="295">payments</tspan>
+            </text>
+            <path fill="#8FA7B2" fill-rule="nonzero" d="M1585 1036.571V1038c0 .395-.32.714-.717.714h-2.15v1.072c0 .591-.481 1.071-1.075 1.071h-35.116c-.594 0-1.075-.48-1.075-1.071v-1.072h-2.15a.715.715 0 0 1-.717-.714v-1.429c0-.289.175-.55.443-.66l20.783-7.857a.719.719 0 0 1 .548 0l20.783 7.857c.268.11.443.371.443.66zm-2.15 27.143h-38.7c-1.187 0-2.15.96-2.15 2.143v1.429c0 .394.32.714.717.714h41.566c.396 0 .717-.32.717-.714v-1.429a2.146 2.146 0 0 0-2.15-2.143zm-33.683-21.428v17.143h-3.225c-.594 0-1.075.48-1.075 1.071v1.786h37.266v-1.786c0-.592-.481-1.071-1.075-1.071h-3.225v-17.143h-5.733v17.143h-5.733v-17.143h-5.734v17.143h-5.733v-17.143h-5.733z"/>
+            <g transform="translate(1527 818)">
+                <circle cx="35" cy="35" r="35" fill="#26A96C"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="11" font-weight="bold" letter-spacing=".177">
+                    <tspan x="1.954" y="33">Accountant / </tspan> <tspan x="4.202" y="46">Bookkeeper</tspan>
+                </text>
+            </g>
+            <g transform="translate(1222 882)">
+                <circle cx="59.5" cy="59.5" r="59.5" fill="#61BBE8"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
+                    <tspan x="26.728" y="59.451">Merchant </tspan> <tspan x="38.356" y="76.451">Portal</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

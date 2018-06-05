@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="759" height="274" viewBox="0 0 759 274">
+    <defs>
+        <path id="b" d="M196.812 52l5.096-6 5.263 6H216v38h-53V52h33.812z"/>
+        <filter id="a" width="126.4%" height="131.8%" x="-13.2%" y="-11.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-16-41h790v381H-16z"/>
+        <g>
+            <rect width="231" height="272" x="1" y="1" fill="#FBFBFB" stroke="#E4E4E4" stroke-width="2" rx="5"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 236.25h197.5v22.5H18.25z"/>
+            <path fill="#2D4088" d="M169 242h33v12h-33z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 213.25h197.5v22.5H18.25z"/>
+            <path fill="#2D4088" d="M169 219h33v12h-33z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 190.25h197.5v22.5H18.25z"/>
+            <path fill="#2D4088" d="M169 196h33v12h-33z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 167.25h197.5v22.5H18.25z"/>
+            <path fill="#2D4088" d="M169 173h33v12h-33z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 144.25h197.5v22.5H18.25z"/>
+            <path fill="#2D4088" d="M169 150h33v12h-33z"/>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 121.25h197.5v22.5H18.25z"/>
+                <path fill="#2D4088" d="M169 127h33v12h-33z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 98.25h197.5v22.5H18.25z"/>
+                <path fill="#2D4088" d="M169 104h33v12h-33z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 75.25h197.5v22.5H18.25z"/>
+                <path fill="#2D4088" d="M169 81h33v12h-33z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 52.25h197.5v22.5H18.25z"/>
+                <path fill="#2D4088" d="M169 58h33v12h-33z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 29.25h197.5v22.5H18.25z"/>
+                <path fill="#2D4088" d="M169 35h33v12h-33z"/>
+            </g>
+        </g>
+        <g transform="translate(263)">
+            <rect width="231" height="272" x="1" y="1" fill="#FBFBFB" stroke="#E4E4E4" stroke-width="2" rx="5"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 236.25h197.5v22.5H18.25z"/>
+            <path fill="#CCC" fill-rule="nonzero" d="M201.452 246.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 244.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 213.25h197.5v22.5H18.25z"/>
+            <path fill="#CCC" fill-rule="nonzero" d="M201.452 223.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 221.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 190.25h197.5v22.5H18.25z"/>
+            <path fill="#CCC" fill-rule="nonzero" d="M201.452 200.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 198.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 167.25h197.5v22.5H18.25z"/>
+            <path fill="#CCC" fill-rule="nonzero" d="M201.452 177.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 175.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 144.25h197.5v22.5H18.25z"/>
+            <path fill="#CCC" fill-rule="nonzero" d="M201.452 154.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 152.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 121.25h197.5v22.5H18.25z"/>
+            <path fill="#CCC" fill-rule="nonzero" d="M201.452 131.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 129.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 98.25h197.5v22.5H18.25z"/>
+                <path fill="#CCC" fill-rule="nonzero" d="M201.452 108.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 106.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 75.25h197.5v22.5H18.25z"/>
+                <path fill="#CCC" fill-rule="nonzero" d="M201.452 85.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 83.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 52.25h197.5v22.5H18.25z"/>
+                <path fill="#CCC" fill-rule="nonzero" d="M201.452 62.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 60.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            </g>
+            <g>
+                <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 29.25h197.5v22.5H18.25z"/>
+                <path fill="#CCC" fill-rule="nonzero" d="M201.452 39.548a1.45 1.45 0 1 1 0 2.904 1.45 1.45 0 1 1 0-2.904zM200 37.452a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0zm0 7.096a1.45 1.45 0 1 0 2.903 0 1.45 1.45 0 1 0-2.903 0z"/>
+            </g>
+            <g>
+                <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+                <use fill="#FFF" xlink:href="#b"/>
+            </g>
+            <path fill="#2D4088" d="M168 68h44v12h-44z"/>
+        </g>
+        <g transform="translate(526)">
+            <rect width="231" height="272" x="1" y="1" fill="#FBFBFB" stroke="#E4E4E4" stroke-width="2" rx="5"/>
+            <path fill="#FFF" stroke="#E9E9E9" stroke-width=".5" d="M18.25 236.25h197.5v22.5H18.25zM18.25 213.25h197.5v22.5H18.25zM18.25 190.25h197.5v22.5H18.25zM18.25 167.25h197.5v22.5H18.25zM18.25 144.25h197.5v22.5H18.25zM18.25 121.25h197.5v22.5H18.25zM18.25 98.25h197.5v22.5H18.25zM18.25 75.25h197.5v22.5H18.25z"/>
+            <path fill="#D6E2F7" stroke="#E9E9E9" stroke-width=".5" d="M18.25 29.25h197.5v22.5H18.25z"/>
+            <path fill="#2D4088" d="M171 57h44v12h-44z"/>
+        </g>
+    </g>
+</svg>
