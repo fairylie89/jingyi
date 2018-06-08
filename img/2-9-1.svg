@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1028" height="582" viewBox="0 0 1028 582">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0 0h1029v584H0z"/>
+        <path fill="#EDF0F5" d="M60 68h327v242H60z"/>
+        <path fill="#D3D7DE" d="M73 112h60v20H73z"/>
+        <path fill="#083649" d="M60 68h327v30H60z"/>
+        <path fill="#1AC2B7" d="M266 108h110v190H266z"/>
+        <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" letter-spacing=".321" transform="translate(60 68)">
+            <tspan x="227.375" y="97">History</tspan>
+        </text>
+        <path fill="#EDF0F5" d="M454 68h327v242H454z"/>
+        <path fill="#D3D7DE" d="M467 112h60v20h-60z"/>
+        <path fill="#083649" d="M454 68h327v30H454z"/>
+        <path fill="#1AC2B7" d="M467 229h298v69H467z"/>
+        <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" letter-spacing=".321" transform="translate(454 68)">
+            <tspan x="130.375" y="203">History</tspan>
+        </text>
+        <g>
+            <path fill="#1AC2B7" d="M60 354h327v190H60z"/>
+            <g fill="#FFF" transform="translate(216 385)">
+                <path d="M7 15h2v98H7z"/>
+                <circle cx="7.5" cy="112.5" r="7.5"/>
+                <circle cx="7.5" cy="77.5" r="7.5"/>
+                <circle cx="7.5" cy="42.5" r="7.5"/>
+                <circle cx="7.5" cy="7.5" r="7.5"/>
+            </g>
+            <g>
+                <path fill="#1AC2B7" d="M454 354h327v190H454z"/>
+                <g fill="#FFF" transform="rotate(90 122 556)">
+                    <path d="M7 15h2v98H7z"/>
+                    <circle cx="7.5" cy="112.5" r="7.5"/>
+                    <circle cx="7.5" cy="77.5" r="7.5"/>
+                    <circle cx="7.5" cy="42.5" r="7.5"/>
+                    <circle cx="7.5" cy="7.5" r="7.5"/>
+                </g>
+            </g>
+        </g>
+        <text fill="#000" fill-opacity=".9" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225">
+            <tspan x="811" y="110">Two different </tspan> <tspan x="811" y="128">explorations on where </tspan> <tspan x="811" y="146">the history will locate</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".9" font-family="Roboto-Regular, Roboto" font-size="14" letter-spacing=".225">
+            <tspan x="811" y="393">What kind of directions </tspan> <tspan x="811" y="411">the timeline should go?</tspan> <tspan x="811" y="429">Vertical or horizontal?</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".9" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" letter-spacing=".321">
+            <tspan x="226.111" y="48">A</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".9" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" letter-spacing=".321">
+            <tspan x="219.296" y="344">C</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".9" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" letter-spacing=".321">
+            <tspan x="607.457" y="48">B</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".9" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" letter-spacing=".321">
+            <tspan x="607.34" y="344">D</tspan>
+        </text>
+    </g>
+</svg>
