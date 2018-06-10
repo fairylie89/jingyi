@@ -57,15 +57,15 @@
      <div>
         <p>Table of Contents</p>
         <ul>
-          <li><a href="#background">Background &amp; Problem</a></li>
+          <li><a href="#role">My Role</a></li>
+          <li><a href="#background">Background</a></li>
           <li><a href="#goal">Goals &amp; Limitations</a></li>
-          <li><a href="#foundation">The Foundation: Seeking The Pattern</a></li>
-          <li><a href="#brick">Adding The Bricks &amp; Concrete: Reusable Components</a></li>
-          <li><a href="#visual">Painting The Surface: Visual Style Guide</a></li>
+          <li><a href="#system">Building the Design System</a></li>
           <li><a href="#bridge">Bridging The Gaps</a></li>
           <li><a href="#development">The Development</a></li>
-          <li><a href="#workflow">Supercharging Designers Workflow</a></li>
-          <li><a href="#next">Next Step</a></li>
+          <li><a href="#challenge">Challenges: How We Got There</a></li>
+          <li><a href="#said">What People Said</a></li>
+          <li><a href="#learn">Learnings</a></li>
         </ul>
       </div>
       <hr/>
@@ -90,38 +90,49 @@
         <figcaption>3-1</figcaption>
       </figure>
       <p>nanopay Design System is a structural and visual guideline to standardize and accelerate the design &amp; development process.
-      It consists of a live style guide with reusable components, design guidelines, CSS snippets,  and a component library for designers. </p>
+      It consists of a live style guide with reusable components, design guidelines, CSS snippets, and a component library for designers. </p>
       
-      <h2 id="background">Background &amp; Problem</h2>
-      <p>As the company grows, we've been adding more and more payment services. The scaling has caused some problems: customers have to switch between different accounts to access different services; developers have to manage different platforms with similar structures separately; the designer has more and more separated design files in the drive.<br><br>
-      We've made a crucial decision: <b>Unify all our services to the core nanopay platform for higher perfromence.</b><br><br>
-      <span><a href="encrypted.html">This is a critical challenge for me</a></span>, as this required an overall deep review of the existing products and a more visionary, compatible and mindful design.</p>
+      <h2 id="role">My Role</h2>
+      <p>As the sole designer in the team, I was responsible for designing and coding the nanopay design system website, and creating the Sketch component library & design templates. I also presented my ideas to the executive team to get buy-ins and the had a tutorial on how to use the design system in the organization. </p>
       
-      <h2 id="goal">Goals &amp; Limitation </h2>
-      <p>Design goals should always match with the business goals:</p>
+      <h2 id="background">Background</h2>
+      <p>As nanopay grows and scales, problems of inconsistency and low efficency started to arise. <b>With a development team of 20 and a QA team of 3, plus a design team of one</b>, we were eager to find a better and more efficient process.</p>
+      <figure>
+        <img src="../img/3-1-1.svg" alt="Outside demands, inner pushes and solutions for the problem">
+        <figcaption>3-1-1 / Above shows what triggered us on starting building a design system</figcaption>
+      </figure>
+      <p>The technology decision has a huge impact on design because all the services will share the same design structure, similar user flow, with the same look and feel. Migrating services also means a reskin of the previous services to match the core product.<br><br>
+      This is a critical challenge for me, as this required an overall deep review of the existing products and a more visionary, compatible and mindful design.</p>
+      
+      <h2 id="goal" class="gap">Goals &amp; Limitation </h2>
       <ul class="goal">
         <li>Standardize and unify the visual style, components used for different services to deliver a smooth, beautiful and consistent user experience.</li>
         <li>Create a universal skeleton of the platform for scaling and future development </li>
       </ul>
       <p>Due to limited resources and tight deadlines to deliver products to our clients, we had to minimize the development cost, which means we could not afford a complete redesign. What I decided was to put the latest B2B portal as the main and revise based on it.</p>
       
-      <h2 id="foundation">The Foundation: Seeking The Patterns</h2>
-      <p>Building up the design system is like building a house, you will need to build the foundation first, then gradually adding the bricks and concrete, and finally paint it in the beautiful colors you like. <br><br>
-      Therefore, the first step I took is to go through all of the existing products and look for commonalities. We have the <span><a href="retail.html">Retail Portal</a></span> , <span><a href="encrypted.html">B2B Portal</a></span> , Support Portal and other web-based tools for our clients. . I categorized the UI design based on the different structures and created the general layout. </p>
+      <h2 id="system">Building the Design System</h2>
+      <p>Building up the design system is like building a house, you will need to build the foundation first, then gradually adding the bricks and concrete, and finally paint it in the beautiful colors you like. </p>
+      <figure class="gap">
+        <img src="../img/3-1-2.png" srcset="../img/3-1-2@2x.png 2x, ../img/3-1-2@3x.png 3x" alt="Steps of building a design system">
+        <figcaption>3-1-2 / Graph of how I pictured building a design system</figcaption>
+      </figure>
+      
+      <h3>#1 The Foundation: Seeking The Patterns</h3>
+      <p>Therefore, the first step I took is to go through all of the existing products and look for commonalities. We have the <span><a href="retail.html">Retail Portal</a></span> , <span><a href="encrypted.html">B2B Portal</a></span> , Support Portal and other web-based tools for our clients. I categorized the UI design based on the different structures and created the general layout. </p>
       <figure>
         <img src="../img/3-2-1.png" srcset="../img/3-2-1@2x.png 2x,
                ../img/3-2-1@3x.png 3x" alt="Screenshots of different UIs">
         <figcaption>3-2-1 / Looking for patterns in the sea of UIs </figcaption>
       </figure>
       <p>As a result, I summarized 4 patterns for the platform: List View, Detail View, New Build View and Setting View.  They are the key skeletons for the whole platform, and almost all the screens can be categorized into the 4.</p>
-      <figure>
+      <figure class="gap">
         <img src="../img/3-2-2.png" srcset="../img/3-2-2@2x.png 2x,
                ../img/3-2-2@3x.png 3x" alt="4 skeletons of the platform">
         <figcaption>3-2-2 / As a payment services provider, the list is an extremely important element: Transactions, invoices, users...they are all living in the system in the form of a list. The detail view and new build view are originated from the list view.</figcaption>
       </figure>
-      <p>The skeletons have set up the foundation of the platform, next step is to add the bricks. </p>
       
-      <h2 id="brick">Adding The Bricks &amp; Concrete: Reusable Components</h2>
+      <h3>#2 Adding The Bricks &amp; Concrete: Reusable Components</h3>
       <p>Remember the giant style guide we create after every project? There are buttons, checkboxes, lists, tables....almost every actionable element appeared in the product. I looked through the style guides and looked for the components playing the same role, then I unified them together based on the design of the B2B portal.</p>
       <figure>
         <img src="../img/3-2-3.png" srcset="../img/3-2-3@2x.png 2x,
@@ -139,7 +150,7 @@
       </figure>
       <p>I also added the use cases for the components, like the main button should be used for primary actions only. Separated components are like separated bricks, only the proper concrete can put them together. Having a specific component dedicated to the specific use cases is the key to deliver a consistent user experience.</p>   
       
-      <h2 id="visual">Painting The Surface: Visual Style Guide</h2>
+      <h3>#3 Painting The Surface: Visual Style Guide</h3>
       <p>The last step in building a house is to paint the wall and add the decorations, and for the system, is the visual style guide.</p>
       <figure class="gap">
         <img src="../img/3-2-4.2.gif" alt="components">
@@ -198,32 +209,97 @@
       </figure>
       <div class="gap"></div>
       <h3>3. Inside The Design Team</h3>
-      <p>I also shared the design templates of the nanopay web platform, color scheme, universal text styles and email templates.</p>
+      <p>I created the design templates of the nanopay web platform, color scheme, universal text styles and email templates so I can easily start a new project. (Also for future designer folks)</p>
       <figure class="gap">
         <img src="../img/3-2-7.png" srcset="../img/3-2-7@2x.png 2x,
                ../img/3-2-7@3x.png 3x" alt="design resources">
         <figcaption>3-2-7 / Design resources</figcaption> 
       </figure>
-       
-      <h2 id="development">The Development</h2>
-      <p>I was responsible for designing and developing the design system website. I made a simple and responsive design with the existing color palette,  then developed it using plain HTML, CSS and JavaScript. It was launched for internal use at the beginning of 2018.</p>
-      <figure class="gap">
-        <img src="../img/3-2-8.gif" alt="responsive layout">
-        <figcaption>3-2-8 / To make the menu prominent enough on mobile devices, I chose to show the menu instead of hiding it in the hamburger menu.</figcaption>
-      </figure>
-        
-      <h2 id="workflow">Supercharging Designers Workflow</h2>
-      <p>Besides the live style guide, I created a component <span><a href="https://sketchapp.com/docs/libraries/" target="_blank">library in SketchApp</a></span> to speed up the visual design process. With a shared component library, creating a hi-fi mockup could never be easier, which also makes rapid-prototyping possible in high fidelity.</p>
+      
+      <h3>4. Supercharge Designer's Workflow</h3>
+      <p>Though I'm the only designer in the team, I feel it is never too early to start building and using a component library, as it can greatly speed up the visual design process and make rapid-prototyping  possible in high fidelity.</p>
       <figure>
-        <img src="../img/3-3-1.gif" alt="demo of how to quickly create a mockup using components library">
-        <figcaption>3-3-1 / I made the general component library a shared library, so all the designers can easily access and use them to quickly make a screen.</figcaption> 
+        <img src="../img/3-2-8.gif" alt="demo of how to quickly create a mockup using components library">
+        <figcaption>3-2-8 / I made the general component library a shared library, so I can use the same components across different files. </figcaption> 
       </figure>
-      <p>Thanks to the powerful features, I was able to do text overrides, color overrides, swapping symbols and finished the mockup in <b>less than 4mins!</b> The plugin <span><a href="http://sketchrunner.com/">Sketch Runner</a></span> is really a good helper.<br><br>
+      <p>I was able to do text overrides, color overrides, swapping symbols and finished this mockup in <b>less than 4mins!</b><br><br>
       Thanks to <span><a href="https://medium.com/in-the-hudl/building-our-sketch-library-cd8c925e566" target="_blank">Michael Fouquet sharing how they build up the sketch library</a></span>,  I was able to quickly put the components together, launch, and start using them!</p>
       
+      <h2 id="development">The Development</h2>
+      <p>I was responsible for designing and developing the design system website. As it is an internal tool and with my limited coding experience, I focused highly on the experience on laptops(most of the use cases happen in the office).A one-column static layout also makes it easier to develop as a responsive website. It was launched for internal use at the beginning of 2018.</p>
+      <figure class="gap">
+        <img src="../img/3-2-9.gif" alt="responsive layout">
+        <figcaption>3-2-9 / To make the menu prominent enough on mobile devices, I chose to show the menu instead of hiding it in the hamburger menu.</figcaption>
+      </figure>
       
-      <h2 id="next">Next Step</h2>
+      <h2 id="challenge">Challenges: How We Got There </h2>
+      <p>During the process, I have encountered three main challenges.</p> 
+      <h3>#1 Balancing Between Different Projects</h3>
+      <p>When I was trying to find patterns in different projects, I noticed there are some components which are unique to a specific project. For example, for B2B users, there is an invoicing capability while for retail users, there is not. All these cases required a careful review on user goals, use cases and business requirments to determine the user groups.I worked closely with the PM and development team on identifying  user groups and access. Based on our services, we identified 4 basic groups: Merchant, B2B, Support and Admin.</p>
+      <figure>
+        <img src="../img/3-3-1.png" srcset="../img/3-3-1@2x.png 2x,
+               ../img/3-3-1@3x.png 3x" alt="Structure of nanopay platform">
+        <figcaption>3-3-1 / Overall structure of nanopay platform after migration services to the same server. The retail solution contain consumer app and merchant app, which are not part of the nanopay web platform.</figcaption> 
+      </figure>
+      <p>With all the components of different projects in one page, we can easily identify the ones that are shared in common, and we can easily merge them. For those which are unique, there are also shared styles used, like the list item below. But for some very unique cases we include it in the design system as a speical component.</p>
+      <figure class="gap">
+        <img src="../img/3-3-2.png" srcset="../img/3-3-2@2x.png 2x,
+               ../img/3-3-2@3x.png 3x" alt="Similar pattern and style for invoices, tickets and transactions">
+        <figcaption>3-3-2 / Invoice, ticket and transaction page have different details, but they all shared the same list component.</figcaption> 
+      </figure>
+      
+      <h3>#2 Solving Conficts Between Technology & Design</h3>
+      <p>Migrating the services ass a technical decision, but it also had a great impact on design. During the migration, we had lots of unexpected changes on the GUI, such as the navigation structure, unexpected interactions and some styling details. Being frustrated, I decided to have a meeting with the development team to understand what happened at the back. <br><br>
+      I identified: 1. I didn't think comprehensively about how the projects should look like after the migration, so for the parts I missed, the developers filled in based on their understanding; 2. There are some changes in the technology and business direction and strategy. <br><br>
+      To solve the existing conficts, I arranged a meeting with the PM, the development and product lead. We used these two graphs to help identify our primary priority on resolving the usability problems cased by technology changes, considering business impact, user needs and development cost to make the best choice for nanopay.
+      <figure>
+        <img src="../img/3-3-3.svg" alt="Balance between business impact and ease of use">
+        <img src="../img/3-3-4.svg" alt="Balance between development cost and ease of use">
+        <figcaption>3-3-3, 3-3-4 / In the first graph, the green ones with checkmark indicates these changes are working fine and don't need further improvement as this point. The area with the biggest business impact, lowest development cost and most serious usability problems is the sweet spot we need to focus on. </figcaption> 
+      </figure>
+      <p>We realized this is a <b>communication</b> problem. By this incident, we learned not to take things for granted, always share information equally, and ask for clarification if not clear.</p>
+      
+      <h3>#3 Getting Buy-ins & Adoptions</h3>
+      <p>Building a design system costs time and money, which without the support of the company I could never have made. As the only designer in the team, getting buy-ins is very important to get started.</p>
+      <h4>From the Leadership Team</h4>
+      <p>I was lucky enough to be at the time when the company was have changes on technology framework and direction, so the converstaion was easier for me. I talked with the head of product about the advantages of having a design system and why it's a right time to build it now. I emphasized <b>scability</b>, <b>speeding up design process</b> and <b>the ease of switching themes</b>in the coverstaions.<br><br>
+      The executive team was especially interested in the themes as one of our main sources of revenue is providing white-label solutions. I did a demonstration on changing color universally using SketchApp and I think that was a game changer. </p>
+      <figure class="gap">
+        <img src="../img/3-3-5.png" srcset="../img/3-3-5@2x.png 2x,
+               ../img/3-3-5@3x.png 3x" alt="sample screens for themes">
+        <figcaption>3-3-5 / The sample screens I used to show themes</figcaption> 
+      </figure>
+      <h4>From the Developers and Other Collegues</h4>
+      <p>Developers are good friends of designers as they help to make designers' solutions come to life. During my day to day life, I have come across some cases (the ones I have shared above) like developers jumping in and asking me for some random assets. At first, I thought it was because they don't know where a specific icon is, but after talking with some of them, I noticed people may not have a clear understanding of different projects going on.<br><br>
+      I focus on <b>efficiency</b> in this part. During our weekly learn and share, I demostrated how to use the system to quickly find specific resources, and also include related materials of the project. And I was able to stage the design system in our internal network so developers can go on anytime they want, doing their favourite "Ctrl + F".<br><br>
+      My other teammates like marketing and sales team, don't necessarily need to use design system. But they do need access to specific branding resources time to time.</p>
+      
+      <h2 id="said">What People Said</h2> 
+      <p>The nanopay design system was launched internally at the beginning of 2018. For sure there are lots I can improve, such as showing real coded examples of the components, providing real-time examples for theme-switching...But I'm glad to get some positive feedback!</p> 
+      <blockquote class="gap">
+        "I can now search for a specific project and view the details if I'm interested"
+      </blockquote>
+      <blockquote class="gap">
+        "Don't need to bother Jingyi (the designer) again for the logo"
+      </blockquote>
+      <blockquote class="gap">
+        "Clear documentation on different colors used in different projects, great"
+      </blockquote>
+      <blockquote>
+        "know about our product more!"
+      </blockquote>
+      <p>The next step, if time permitted, will be building our CSS component library for developers, so we can greatly speed up the development process and make functional rapid prototyping possible.</p>
+      
+      <h2 id="learn" class="gap">Learnings</h2>
+      <h3>#1 Start with a pilot before asking for too much.</h3>
+      <p>In the business world, especially for large projects, people don't risk the whole thing at once, instead,  they usually start with a pilot to validate if it is worthy of putting more resources on. It is the same for a design system. As the only designer, what I have created was something very basic: the visual style guide and a summary of current components, which is more like a guideline rather than a functional system.  I was also responsible for the development of the website, which means it didn't cost any extra development.  In this way, it is easier to get buy-ins and we can achieve more once we have the pilot up and running, and people start to see the actual benefits.</p>
+      <h3>#2 Don't simplify things for the sake of it.</h3>
+      <p>There is no one-size-fits-all solution for different payment services we offer, especially when designing for those services, we've put many efforts to find out the best practices, so we shouldn't make all these in vain. It's important to keep the components in a manageable amount, but we should also understand there are some parts that should not be generalized and over-simplified, as they serve a specific goal</p>
+      <h3>#3 Speak people's language when communicating with them.</h3>
+      <p>A developer cares about performance, just like a visual designer cares about pixels. What I have learned in the conversations with my teammates, is to always speak their languages.  Talk about the business impact, KPI, KYC with the business team while telling the development team how it can help them be more efficient and reduce the amount of code they need to copy and paste. In UX design, we advocate putting ourselves in the user's shoes, it is the same situation for an internal tool. Empathy and story-telling go a long way, only if we understand what makes them frustrated and propose something that can truly help them in their daily work,  they are likely to appreciate the work we do.</p>
       <p>As for now, I only identified the proper CSS for different text styles. In the future, we'd like to build our own CSS components library, to accelerate the development process, minimize design discrepancies and reduce the workload on universal changes.</p> 
+      <h3>#4 Walk out of the designer bubble and look for opportunities in the real jungle to show people about design.</h3>
+      <p>As the sole designer in the company, sometimes I got stuck in my own corner doing my "design". I was too focused on it sometimes I missed out lots going on inside the company, but I believed people would understand what I was doing. However, doing design is about solving a user's problem, but it is also about communication and collaboration. The design system is my first try at optimizing the internal workflow and a great opportunity to promote the value of design. As it is easiest to validate design's value is to provide a concrete example related to the benefits of your audience.</p>
       
       <hr/>
       <h3 class="gap">Related Links</h3>

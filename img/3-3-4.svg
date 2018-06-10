@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="445" viewBox="0 0 750 445">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0 0h750v445H0z"/>
+        <path stroke="#61BBE8" stroke-linecap="square" stroke-width="2" d="M358.5 61.5v335.722M196 209.5h349"/>
+        <path stroke="#61BBE8" stroke-width="2" d="M348.553 69.887l10.203-9.674 10.844 9.674M537 199l9.674 10.203L537 220.047"/>
+        <text fill="#093649" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".288" transform="translate(119 28)">
+            <tspan x="369" y="212">Hard to use</tspan>
+        </text>
+        <text fill="#093649" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".288" transform="translate(119 28)">
+            <tspan x="0" y="212">Not that hard</tspan>
+        </text>
+        <text fill="#093649" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".288" transform="translate(119 28)">
+            <tspan x="114" y="17">High Development Cost of Change</tspan>
+        </text>
+        <text fill="#093649" font-family="Roboto-Regular, Roboto" font-size="18" letter-spacing=".288" transform="translate(119 28)">
+            <tspan x="114" y="398">Low Development Cost of Change</tspan>
+        </text>
+        <g fill="#FFF" fill-rule="nonzero">
+            <path d="M250.5 302c-10.217 0-18.5 8.283-18.5 18.5s8.283 18.5 18.5 18.5 18.5-8.283 18.5-18.5-8.283-18.5-18.5-18.5zm-.402 3.217c8.224 0 14.88 6.656 14.88 14.88 0 8.225-6.655 14.881-14.88 14.881-8.224 0-14.88-6.655-14.88-14.88 0-8.224 6.655-14.88 14.88-14.88zm11.4 9.983l-1.703-1.677a.922.922 0 0 0-1.283-.005l-10.682 10.35-4.519-4.45a.922.922 0 0 0-1.282-.004l-1.717 1.663a.871.871 0 0 0-.005 1.253l6.86 6.756a.922.922 0 0 0 1.283.005l13.043-12.638a.872.872 0 0 0 .005-1.253z"/>
+        </g>
+        <g>
+            <g transform="translate(389 263)">
+                <rect width="164" height="115" fill="#171A28" rx="10"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                    <tspan x="52.105" y="65.974">CHANGE</tspan>
+                </text>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(389.087 68)">
+                <rect width="164" height="115" fill="#E861BE" rx="10"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                    <tspan x="42.497" y="57.621">Not Priority</tspan>
+                </text>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(169.087 68)">
+                <rect width="164" height="115" fill="#E861BE" rx="10"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                    <tspan x="42.497" y="57.621">Not Priority</tspan>
+                </text>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(169 263)">
+                <rect width="164" height="115" fill="#9B61E8" rx="10"/>
+                <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                    <tspan x="32.935" y="65.974">Second Priority</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -46,6 +46,8 @@ blockquote {
   line-height: 1.5;
   font-weight: 300;
   color: rgba(0,0,0,0.66);
+  padding-left: 20px;
+  border-left: 4px solid #61BBE8;
 }
 blockquote span{
   background-color: #9FD7F3;

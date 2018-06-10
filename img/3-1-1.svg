@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="500" viewBox="0 0 830 500">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0 0h830v500H0z"/>
+        <path stroke="#61BBE8" stroke-linecap="square" stroke-width="4" d="M275.5 285.5l59 62"/>
+        <path stroke="#A4B3B8" stroke-linecap="square" stroke-width="4" d="M556.5 285.5l-59 62"/>
+        <g transform="translate(82 40)">
+            <rect width="281" height="207" y="40" fill="#61BBE8" rx="20"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="32" y="81">Customer</tspan>  <tspan x="32" y="98" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">The pain of switch between different </tspan> <tspan x="32" y="113" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">portals for different services (merchant, </tspan> <tspan x="32" y="128" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">B2B)</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="32" y="166">Product</tspan>  <tspan x="32" y="183" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">Inconsistency of different branding and </tspan> <tspan x="32" y="198" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">structure of multiple services provided </tspan> <tspan x="32" y="213" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">by nanopay</tspan>
+            </text>
+            <text fill="#61BBE8" font-family="Lato-Black, Lato" font-size="20" font-weight="700" letter-spacing=".276">
+                <tspan x="57" y="20">Outside Demands</tspan>
+            </text>
+        </g>
+        <g transform="translate(467 40)">
+            <rect width="281" height="207" y="40" fill="#A4B3B8" rx="20"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="20" y="79">Development</tspan>  <tspan x="20" y="96" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">High cost of managing multiple platforms </tspan> <tspan x="20" y="111" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">with similar structures separately</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="20" y="136">Design</tspan>  <tspan x="20" y="153" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">Styles guides pile up in the drive, hard to </tspan> <tspan x="20" y="168" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">manage and keep consistency</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="20" y="192">Business</tspan>  <tspan x="20" y="209" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">Promote branding awareness with unified </tspan> <tspan x="20" y="224" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">branding , provide scaling capability</tspan>
+            </text>
+            <text fill="#A4B3B8" font-family="Lato-Black, Lato" font-size="20" font-weight="700" letter-spacing=".276">
+                <tspan x="80" y="20">Inner Pushes</tspan>
+            </text>
+        </g>
+        <g transform="translate(244 315)">
+            <rect width="343" height="129" y="31" fill="#1CC2B7" rx="10"/>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="15" y="63">Development</tspan>  <tspan x="15" y="80" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">Migrate all the services to one single nanopay platform, </tspan> <tspan x="15" y="95" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">provide different access based on user group</tspan>
+            </text>
+            <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
+                <tspan x="15" y="124">Design</tspan>  <tspan x="15" y="141" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">Unify the design language and build a component library</tspan>
+            </text>
+            <text fill="#1CC2B7" font-family="Lato-Black, Lato" font-size="20" font-weight="700" letter-spacing=".276">
+                <tspan x="128" y="20">Solutions</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
