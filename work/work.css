@@ -53,6 +53,17 @@ blockquote span{
   background-color: #9FD7F3;
   color: rgba(0,0,0,0.66);
 }
+.result {
+  background-color: #61BBE8;
+  padding: 1em;
+}
+.result p {
+  margin: 0;
+  color: white;
+  font-size: 1.2em;
+  text-align: center;
+  
+}
 /*list*/
 .goal {
   background-color:#EAF1F4;
