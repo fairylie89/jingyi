@@ -61,9 +61,9 @@ blockquote span{
   margin: 0;
   color: white;
   font-size: 1.2em;
-  text-align: center;
-  
+  text-align: center; 
 }
+#bot {color: white; margin-right: 0.5em;}
 /*list*/
 .goal {
   background-color:#EAF1F4;
