@@ -117,7 +117,6 @@ footer p {
 @media only screen and (min-width: 768px){
   h1 {font-size: 3.6em;}
   h2 {font-size: 1.5em;}
-  .header {max-width: 85%;}
 }
 @media only screen and (min-width: 830px){
   .card {margin-bottom: 48px;}
