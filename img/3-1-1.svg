@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="500" viewBox="0 0 830 500">
     <g fill="none" fill-rule="evenodd">
         <path fill="#FFF" d="M0 0h830v500H0z"/>
-        <path stroke="#61BBE8" stroke-linecap="square" stroke-width="4" d="M275.5 285.5l59 62"/>
+        <path stroke="#174ECA" stroke-linecap="square" stroke-width="4" d="M275.5 285.5l59 62"/>
         <path stroke="#A4B3B8" stroke-linecap="square" stroke-width="4" d="M556.5 285.5l-59 62"/>
         <g transform="translate(82 40)">
-            <rect width="281" height="207" y="40" fill="#61BBE8" rx="20"/>
+            <rect width="281" height="207" y="40" fill="#174ECA" rx="20"/>
             <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
                 <tspan x="32" y="81">Customer</tspan>  <tspan x="32" y="98" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">The pain of switch between different </tspan> <tspan x="32" y="113" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">portals for different services (merchant, </tspan> <tspan x="32" y="128" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">B2B)</tspan>
             </text>
             <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".193">
                 <tspan x="32" y="166">Product</tspan>  <tspan x="32" y="183" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">Inconsistency of different branding and </tspan> <tspan x="32" y="198" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">structure of multiple services provided </tspan> <tspan x="32" y="213" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal">by nanopay</tspan>
             </text>
-            <text fill="#61BBE8" font-family="Lato-Black, Lato" font-size="20" font-weight="700" letter-spacing=".276">
+            <text fill="#174ECA" font-family="Lato-Black, Lato" font-size="20" font-weight="700" letter-spacing=".276">
                 <tspan x="57" y="20">Outside Demands</tspan>
             </text>
         </g>

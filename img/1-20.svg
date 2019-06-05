@@ -179,7 +179,7 @@
             </text>
         </g>
         <g transform="translate(1194 223)">
-            <circle cx="72" cy="72" r="72" fill="#61BBE8"/>
+            <circle cx="72" cy="72" r="72" fill="#174ECA"/>
             <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
                 <tspan x="40.818" y="69">Merchant </tspan> <tspan x="52.446" y="86">Portal</tspan>
             </text>
@@ -344,7 +344,7 @@
                 </text>
             </g>
             <g transform="translate(1222 882)">
-                <circle cx="59.5" cy="59.5" r="59.5" fill="#61BBE8"/>
+                <circle cx="59.5" cy="59.5" r="59.5" fill="#174ECA"/>
                 <text fill="#FFF" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" letter-spacing=".225">
                     <tspan x="26.728" y="59.451">Merchant </tspan> <tspan x="38.356" y="76.451">Portal</tspan>
                 </text>

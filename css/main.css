@@ -15,11 +15,11 @@ body {
 a {
   font-size: 1em;
   line-height: 1.5;
-  color: #61BBE8;
+  color: #174ECA;
 }
 a:hover{
   text-decoration: underline;
-  color: #4B90B3;
+  color: #1B3F92;
   transition: color 0.3s;
 }
 nav > a, nav a:hover, section a, section a:hover,.contact a, .contact a:hover {text-decoration: none;}
@@ -32,7 +32,7 @@ nav {
 nav > a { 
   display: block;
   line-height: 2;
-  color: rgba(0,0,0,0.36);
+  color: #595959;
 }
 nav a + a {margin-left: 40px;}/*allow future menus*/
 nav a:hover {
@@ -55,18 +55,18 @@ nav .active {color: rgba(0,0,0,0.76);}
   left: auto;
   display: block;
   width: 100%;
-  border-bottom: 0.26em solid #61BBE8;
+  border-bottom: 0.26em solid #174ECA;
 }
 
 /*section card override link*/
 section a, section a:hover, section a:visited {color: rgba(0,0,0,0.76);}
-h1 a {text-decoration: underline;color: #61BBE8;}
+h1 a {text-decoration: underline;color: #174ECA;}
 h1 a:hover, h1 a:visited:hover{
   text-decoration: underline;
-  color: #4B90B3;
+  color: #1B3F92;
   transition: color 0.2s;
 }
-h1 a:visited{color:#61BBE8;}
+h1 a:visited{color:#174ECA;}
 
 /*text formatting*/
 h1 {
@@ -88,10 +88,10 @@ p {
 }
 .label {
   line-height: 1.4;
-  color: rgba(0,0,0,0.36);
+  color: #595959;
   margin: 6px 0;
 }
-span {color:#61BBE8; }
+span {color:#174ECA; }
 
 img {width: 100%;}
 .card {margin-bottom: 48px;}
@@ -109,7 +109,7 @@ hr {border-top: 1px solid rgba(0,0,0,0.36);}
   margin: 12px;
 }
 .social:hover {
-  color: #61BBE8;
+  color: #174ECA;
   transition: color 0.2s;
 }
 footer p {

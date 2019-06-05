@@ -16,7 +16,7 @@ a:not(.bottom, nav a, .btn):visited {color: #551A8B;}
   margin: 24px 0 40px;
 }
 .btn {
-  background-color: #61BBE8;
+  background-color: #174ECA;
   border: none;
   padding: 0.75em 1em;
   border-radius: 2px;
@@ -26,7 +26,7 @@ a:not(.bottom, nav a, .btn):visited {color: #551A8B;}
   text-align: center;
 }
 .btn:hover {
-  background-color: #4B90B3;
+  background-color: #1A3F92;
   transition: background-color 0.5s;
   color: #fff;
 }
@@ -35,7 +35,7 @@ figcaption {
   font-family: 'PT Serif', serif;
   font-style: italic;
   font-size: 0.85em;
-  color: rgba(0,0,0,0.36);
+  color: #595959;
   margin: 8px 0;
   text-align: center;
 }
@@ -47,14 +47,14 @@ blockquote {
   font-weight: 300;
   color: rgba(0,0,0,0.66);
   padding-left: 20px;
-  border-left: 4px solid #61BBE8;
+  border-left: 4px solid #174ECA;
 }
 blockquote span{
-  background-color: #9FD7F3;
-  color: rgba(0,0,0,0.66);
+  background-color: #174ECA;
+  color: #fff;
 }
 .result {
-  background-color: #61BBE8;
+  background-color: #174ECA;
   padding: 1em;
 }
 .result p {
@@ -109,7 +109,7 @@ a div p {margin: 0;}
   padding: 1em 2em;
 }
 .bottombar:hover {
-  background-color: #4B90B3;
+  background-color: #1A3F92;
   transition: background-color 0.3s;
 }
 
